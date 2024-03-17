@@ -1174,7 +1174,6 @@
           description: 鼠标手势，无四角手势，自行编写，2021停更
         - title: strokesplus
           logo: 
-<<<<<<< Updated upstream
           url: https://onequick.org/
           description: 快捷键工具，2018停更
 
@@ -1205,15 +1204,6 @@
           url: 
           description: 
        
-=======
-          url: https://www.strokesplus.com/
-          description: 2016停更，2024官网仍健在，引导用户去https://www.strokesplus.net/
-        - title: MouseInc
-          logo: 
-          url: https://shuax.com/
-          description: 官网已挂，鼠标增强工具，小巧，鼠标手势及增强功能
-        
->>>>>>> Stashed changes
        
 
 - taxonomy: 桌面美化
