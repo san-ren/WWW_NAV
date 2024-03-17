@@ -174,6 +174,10 @@
           logo: 
           url: https://mcool.appinn.me/
           description: 极简，开源，跨平台，本地音乐播放器
+        - title: AIMP
+          logo: 
+          url: http://www.aimp.ru/
+          description: 
         - title: Winamp
           logo: 
           url: https://www.winamp.com/
@@ -331,6 +335,18 @@
           logo: 
           url: https://github.com/Ruben2776/PicView
           description: 开源，看图
+        - title: Image Eye
+          logo: 
+          url: https://www.fmjsoft.com/imageeye.html#main
+          description: 
+        - title: IrfanView
+          logo: 
+          url: https://www.irfanview.com/
+          description: 
+        - title: XnView
+          logo: 
+          url: https://www.xnview.com/en/
+          description: 
         - title: 全屏看图
           logo: 
           url: http://www.o345.com/gengxin-log/632.html
@@ -459,7 +475,7 @@
           url: https://github.com/1061700625/WeChat_Article
           description: 2023年6月停更
 
-    - term: 网盘下载
+    - term: 网盘
       links:
         - title: 就是加速
           logo: 
@@ -477,9 +493,17 @@
           logo:
           url: https://github.com/InfpHub/Raptor
           description: 第三方阿里云盘桌面应用客户端
+        - title: PikPak
+          logo: 
+          url: https://mypikpak.com/zh-CN
+          description: 新加坡网盘，非会员6G空间，可离线、磁力，下载不限速，可刷会员
 
     - term: 视频下载
       links: 
+        - title: N_m3u8DL-CLI
+          logo: 
+          url: https://nilaoda.github.io/N_m3u8DL-CLI/
+          description: 13.3k star,载m3u8的命令行工具
         - title: lux
           logo: 
           url: https://github.com/iawia002/lux
@@ -510,7 +534,7 @@
         - title: NDM
           logo: 
           url: http://www.neatdownloadmanager.com/index.php/en/
-          description: 支持浏览器扩展
+          description: 支持浏览器扩展,嗅探（自动合成多个ts文件）
         - title: XDM
           logo: 
           url: https://github.com/subhra74/xdm
@@ -523,10 +547,6 @@
           logo:  
           url: https://github.com/lstprjct/IDM-Activation-Script
           description: 6k star,IDM激活和跟踪重置脚本，一行代码激活IDM
-        - title: PikPak
-          logo: 
-          url: https://mypikpak.com/zh-CN
-          description: 新加坡网盘，非会员6G空间，可离线、磁力，下载不限速，可刷会员
         - title: BitComet
           logo: 
           url: https://www.bitcomet.com/cn
@@ -539,10 +559,34 @@
           logo: 
           url: https://github.com/c0re100/qBittorrent-Enhanced-Edition
           description: 16.5K star,qBittorrent 增强版
+        - title: LIII BitTorrent 
+          logo: 
+          url: https://codecpack.co/download/LIII-BitTorrent-Client.html
+          description: 开源文件共享实用程序，能够下载种子
         - title: Motrix
           logo: 
-          url: https://github.com/agalwood/Motrix
+          url: https://motrix.app/
           description: 42.5k star,开源，支持下载HTTP、FTP、BT、磁力链接等资源
+        - title: Xdown
+          logo: 
+          url: https://xdown.org/
+          description: 免费idm / torrent 合成体
+        - title: Arrow Downloader
+          logo: 
+          url: https://www.arrow-dl.com/
+          description: 
+        - title: Hitomi-Downloader
+          logo: 
+          url: https://github.com/KurtBestor/Hitomi-Downloader
+          description: 19.2k star,网页下载
+        - title: WebTorrent
+          logo: 
+          url: https://webtorrent.io/
+          description: 28.8k star,适用于 Web 的流式传输 torrent 客户端,边下边播
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: Qdown
           logo: 
           url: http://lightzhan.xyz/index.php/qdown/
@@ -555,6 +599,10 @@
           logo: 
           url: https://www.filecxx.com/zh_CN/
           description: 全能，http、磁力，浏览器扩展，资源嗅探
+        - title: tdl 
+          logo: 
+          url: https://docs.iyear.me/tdl/zh/
+          description: 3.1k star,Telegram Downloader
 
     - term: 下载-Android
       links:
@@ -687,6 +735,10 @@
           logo: 
           url: https://www.sumatrapdfreader.org
           description: pdf阅读器，开源，支持PDF、epub、mobi、SPS,DjVu,CHM,CBZ和CBR格式
+        - title: Okular
+          logo: 
+          url: https://okular.kde.org/zh-cn/
+          description: Okular 是一款功能丰富、轻巧快速的跨平台文档阅读器。您可以使用它来阅读 PDF 文档、漫画电子书、Epub 电子书，浏览图像，显示标记语言文档等。
         - title: PDFsamBasic
           logo: 
           url: https://pdfsam.org/
@@ -722,7 +774,7 @@
         - title: SolidConverterPDF
           logo: 
           url: https://www.soliddocuments.com/zh/
-          description: 付费，名称：SolidConverterPDFv
+          description: 付费，名称：SolidConverterPDFv9电子邮件：Solid@Converterv9@ukr.net机构名称：SolidConverterv9解锁密码：KFMK
         - title: 悦书PDF阅读器
           logo: 
           url: http://www.yueshupdf.com/
@@ -738,7 +790,7 @@
 
     - term: Office
       links:
-         - title: FreeOffice
+        - title: FreeOffice
           logo: 
           url: https://www.freeoffice.com/zh/
           description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
@@ -821,6 +873,14 @@
           logo: 
           url: https://www.softwareok.eu/
           description: 文件管理器，默认四个小窗口组成一个大窗口
+        - title: Advanced Renamer
+          logo: 
+          url: https://www.advancedrenamer.com/
+          description: 文件批量重命名
+        - title: ReNamer
+          logo: 
+          url: https://pmzeroskyline.github.io/FreeApps/
+          description: 文件批量重命名
 
     - term: 局域网传输
       links:
@@ -1081,6 +1141,34 @@
           logo: 
           url: https://onequick.org/
           description: 快捷键工具，2018停更
+
+    - term: 模拟器、虚拟机
+      links: 
+        - title: 雷神模拟器
+          logo: 
+          url: http://www.lsplayer.com/#/
+          description: 安卓模拟器
+        - title: BlueSracks
+          logo: 
+          url: https://www.bluestacks.com/bluestacks-5.html
+          description: 安卓模拟器
+        - title: VirtualBox 7.0
+          logo: 
+          url: https://www.virtualbox.org/
+          description: 
+        - title: VMware Workstation 17.5.0 Pro
+          logo: 
+          url: https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0
+          description: 
+        - title: VMware Workstation 17.5.0 Pro
+          logo: 
+          url: https://www.ypojie.com/6066.html
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+       
        
 
 - taxonomy: 桌面美化
