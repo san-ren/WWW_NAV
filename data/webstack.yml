@@ -430,6 +430,14 @@
           logo: 
           url: https://www.ieway.cn/evcapture.html
           description: 
+        - title: Captura
+          logo: 
+          url: https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html
+          description: 9.3k star,2018停更
+        - title: RecButton
+          logo: 
+          url: https://www.recbutton.org/
+          description: 
 
       
     
@@ -868,6 +876,10 @@
 
     - term: 文件管理
       links:
+        - title: anytxt
+          logo: 
+          url: https://anytxt.net/
+          description: 文件内容搜索，支持文档、图片、pdf等所有常见格式  
         - title: Everything
           logo: 
           url: https://www.voidtools.com/zh-cn/
@@ -878,7 +890,7 @@
           description: 空间嗅探
         - title: Listary
           logo: 
-          url: http://www.listary.com/
+          url: https://www.listarypro.com/
           description: 搜索工具
         - title: DropIt
           logo: 
