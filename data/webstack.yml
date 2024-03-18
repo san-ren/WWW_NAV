@@ -108,6 +108,14 @@
           logo: 
           url: https://www.jianpian8.com/
           description: 全平台，无网页，专治迅雷被封链接
+        - title: 录播姬
+          logo: 
+          url: https://rec.danmuji.org/
+          description: 3.4K star,从B站服务器获取直播流，
+        - title: 抖音直播监控录制工具
+          logo: 
+          url: https://wwbg.lanzouj.com/b058rq5xa
+          description: 密码1234，获取抖音直播
 
     - term: 影视-Android
       links: 
