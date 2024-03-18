@@ -40,77 +40,7 @@
       description: 知名软件达人
     
 
-- taxonomy: 日常
-  icon: fa-regular fa-newspaper
-  links: 
-    - title: 7-zip
-      logo: 
-      url: https://www.7-zip.org/
-      description: 经典压缩软件
-    - title: Chrome
-      logo: 
-      url: https://www.google.com/intl/zh-CN/chrome/
-      description: 
-    - title: 微信
-      logo: 
-      url: https://pc.weixin.qq.com/
-      description: 
-    - title: TIM
-      logo: 
-      url: https://office.qq.com/download.html
-      description: 
-    - title: LiteLoaderQQNT
-      logo: 
-      url: https://liteloaderqqnt.github.io/
-      description: QQNT 插件加载器
-    - title: Telegram
-      logo: 
-      url: https://desktop.telegram.org/
-      description: 电报，tg
-    - title: Python
-      logo: 
-      url: https://www.python.org/downloads/windows/
-      description: 
-    - title: Visual Studio Code
-      logo: 
-      url: https://code.visualstudio.com/Download
-      description: 微软出品
-    - title: Git
-      logo: 
-      url: https://git-scm.com/download/win
-      description: 
-    - title: Potplayer
-      logo: 
-      url: https://potplayer.app/?lang=zh_CN
-      description: 经典音视频播放器，强大无疑
-    - title: Honeyview-蜂蜜浏览器
-      logo: 
-      url: http://www.bandisoft.com/honeyview/
-      description: 与Bandizip同宗，2024发布新版Bandiview v7.0,免费版有广告
-    - title: SumatraPDF
-      logo: 
-      url: https://www.sumatrapdfreader.org/download-free-pdf-viewer
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
-    - title: 
-      logo: 
-      url: 
-      description: 
+
 
 
     
@@ -187,6 +117,63 @@
           logo: 
           url: https://github.com/InfinityLoop1308/PipePipe
           description: 1.3k star,第三方YouTube, NicoNico and BiliBili 
+
+    - term: 影视-网站
+      links: 
+        - title: 电影狗
+          logo: 
+          url: https://www.dianyinggou.com/
+          description: 电影搜索引擎网站
+        - title: mvcat
+          logo: 
+          url: https://www.mvcat.com/
+          description: 
+        - title: 真不卡
+          logo: 
+          url: https://www.bkyb.net/
+          description: 画质平均线之上，刚开始确实不卡
+        - title: 可可影视
+          logo: 
+          url: https://dl.keke13.com:51111/index.html
+          description: app无广告，画质尚可
+         - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+         - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+
+
+
+
+
+
 
     - term: 音乐-win
       links: 
@@ -1361,7 +1348,77 @@
 
           
 
-
+- taxonomy: 日常
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: 7-zip
+      logo: 
+      url: https://www.7-zip.org/
+      description: 经典压缩软件
+    - title: Chrome
+      logo: 
+      url: https://www.google.com/intl/zh-CN/chrome/
+      description: 
+    - title: 微信
+      logo: 
+      url: https://pc.weixin.qq.com/
+      description: 
+    - title: TIM
+      logo: 
+      url: https://office.qq.com/download.html
+      description: 
+    - title: LiteLoaderQQNT
+      logo: 
+      url: https://liteloaderqqnt.github.io/
+      description: QQNT 插件加载器
+    - title: Telegram
+      logo: 
+      url: https://desktop.telegram.org/
+      description: 电报，tg
+    - title: Python
+      logo: 
+      url: https://www.python.org/downloads/windows/
+      description: 
+    - title: Visual Studio Code
+      logo: 
+      url: https://code.visualstudio.com/Download
+      description: 微软出品
+    - title: Git
+      logo: 
+      url: https://git-scm.com/download/win
+      description: 
+    - title: Potplayer
+      logo: 
+      url: https://potplayer.app/?lang=zh_CN
+      description: 经典音视频播放器，强大无疑
+    - title: Honeyview-蜂蜜浏览器
+      logo: 
+      url: http://www.bandisoft.com/honeyview/
+      description: 与Bandizip同宗，2024发布新版Bandiview v7.0,免费版有广告
+    - title: SumatraPDF
+      logo: 
+      url: https://www.sumatrapdfreader.org/download-free-pdf-viewer
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
 
      
 - taxonomy: 友情链接
