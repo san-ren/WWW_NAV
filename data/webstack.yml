@@ -10,10 +10,34 @@
       logo: 
       url: https://shouku123.com/tiantian
       description: 观影网站导航
-    - title: 
+    - title: 奔跑中的奶酪
       logo: 
-      url: 
-      description: 
+      url: https://www.runningcheese.com/
+      description: 有智，有趣，有爱
+    - title: 小众软件
+      logo: 
+      url: https://www.appinn.com/
+      description: 一个分享、体验、评测电脑软件、手机应用、互联网产品的网站
+    - title: 异次元
+      logo: 
+      url: https://www.iplaysoft.com/
+      description: 专注于推荐优秀软件APP应用和互联网资源
+    - title: IT之家
+      logo: 
+      url: https://soft.ithome.com/
+      description: 软件资讯、教程、下载
+    - title: 下一个好软件
+      logo: 
+      url: https://x1g.la/
+      description: 公众号“下一个好软件”网站
+    - title: 不死鸟
+      logo: 
+      url: https://iui.su/
+      description: 专注分享优质资源
+    - title: 423down
+      logo: 
+      url: https://www.423down.com/
+      description: 知名软件达人
     
 
 - taxonomy: 日常
@@ -256,14 +280,14 @@
           logo: 
           url: https://listen1.github.io/listen1/
           description: 搜索和播放来自网易云音乐，QQ音乐，酷狗音乐，酷我音乐，Bilibili，咪咕音乐网站的歌曲
-        - title: 
-          logo: 
-          url: 
-          description: 
         - title: MusicFree
           logo: 
           url: https://github.com/maotoumao/MusicFree
           description: 插件化、定制化、无广告的免费音乐播放器
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: 音乐时刻
           logo: 
           url: https://www.magicalapk.com/appview?id=1709812707300
