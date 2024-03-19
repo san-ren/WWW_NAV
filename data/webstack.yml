@@ -177,6 +177,10 @@
 
     - term: 音乐-win
       links: 
+        - title: 音乐标签
+          logo: 
+          url: https://www.cnblogs.com/vinlxc/p/11347744.html
+          description: 编辑歌曲的标题，专辑，艺术家，歌词，封面等信息,支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, MP4, M4A, OGG, MPC, OPUS, WMA, DSF, DFF等
         - title: foobar2000
           logo: 
           url: https://www.foobar2000.org/
@@ -255,6 +259,10 @@
 
     - term: 音乐-Android
       links: 
+        - title: 音乐标签
+          logo: 
+          url: https://www.cnblogs.com/vinlxc/p/11932130.html
+          description: 编辑歌曲的标题，专辑，艺术家，歌词，封面等信息,支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, MP4, M4A, OGG, MPC, OPUS, WMA, DSF, DFF等
         - title: 酷狗概念版
           logo: 
           url: https://activity.kugou.com/download/v-a23b0cf0/index.html
