@@ -271,10 +271,10 @@
           logo: 
           url: https://github.com/maotoumao/MusicFree
           description: 插件化、定制化、无广告的免费音乐播放器
-        - title: 
+        - title: Muviz Edge 
           logo: 
-          url: 
-          description: 
+          url: https://play.google.com/store/apps/details?id=com.sparkine.muvizedge&ref=appinn
+          description: 在屏幕边缘显示现场音乐可视化
         - title: 音乐时刻
           logo: 
           url: https://www.magicalapk.com/appview?id=1709812707300
@@ -524,6 +524,14 @@
           logo: 
           url: https://mypikpak.com/zh-CN
           description: 新加坡网盘，非会员6G空间，可离线、磁力，下载不限速，可刷会员
+        - title: MultCloud
+          logo: 
+          url: https://www.multcloud.com/cn/
+          description: 跨网盘文件传输，支持Google Drive、OneDrive、Dropbox、百度云盘、iCloud等好多网盘（详见官网），还有NAS
+        - title: 夸克网盘批量转存工具 
+          logo: 
+          url: https://www.52pojie.cn/thread-1897944-1-1.html
+          description: 夸克网盘批量转存
 
     - term: 视频下载
       links: 
