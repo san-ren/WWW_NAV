@@ -41,10 +41,6 @@
     
 
 
-
-
-    
-
 - taxonomy: 媒体
   icon: fa-regular fa-lightbulb
   list: 
@@ -116,7 +112,11 @@
         - title: PipePipe
           logo: 
           url: https://github.com/InfinityLoop1308/PipePipe
-          description: 1.3k star,第三方YouTube, NicoNico and BiliBili 
+          description: 1.3k star,第三方YouTube, NicoNico and BiliBili ，可下载视频
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 影视-网站
       links: 
@@ -152,29 +152,7 @@
           logo: 
           url: 
           description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
-
-
-
-
-
-
-
+              
     - term: 音乐-win
       links: 
         - title: 音乐标签
@@ -283,6 +261,10 @@
           logo: 
           url: https://play.google.com/store/apps/details?id=com.sparkine.muvizedge&ref=appinn
           description: 在屏幕边缘显示现场音乐可视化
+         - title: InnerTune
+          logo: 
+          url: https://github.com/z-huang/InnerTune
+          description: 3.1k star,第三方 YouTube Music 
         - title: 音乐时刻
           logo: 
           url: https://www.magicalapk.com/appview?id=1709812707300
@@ -322,7 +304,7 @@
         - title: Musicolet
           logo: 
           url: https://krosbits.in/musicolet/
-          description: Android 离线音乐播放器
+          description: Android 离线音乐播放器,可编辑音乐标签和内嵌歌词
         - title: 椒盐音乐
           logo: 
           url: https://play.google.com/store/apps/details?id=com.salt.music
@@ -342,11 +324,7 @@
         - title: 
           logo: 
           url: 
-          description:
-        - title: InnerTune
-          logo: 
-          url: https://github.com/z-huang/InnerTune
-          description: 3.1k star,第三方 YouTube Music 
+          description: 
 
     - term: 图片
       links: 
@@ -540,6 +518,14 @@
           logo: 
           url: https://www.52pojie.cn/thread-1897944-1-1.html
           description: 夸克网盘批量转存
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 视频下载
       links: 
@@ -770,6 +756,10 @@
         - title: PaddleOCR
           logo: 
           url: https://github.com/PaddlePaddle/PaddleOCR
+          description: 
+        - title: 
+          logo: 
+          url: 
           description: 
 
     - term: PDF
