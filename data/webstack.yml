@@ -113,10 +113,10 @@
           logo: 
           url: https://github.com/InfinityLoop1308/PipePipe
           description: 1.3k star,第三方YouTube, NicoNico and BiliBili ，可下载视频
-        - title: 
+        - title: Pure Live纯粹直播
           logo: 
-          url: 
-          description: 
+          url: https://github.com/Jackiu1997/pure_live
+          description: 1.5k star, 支持B站、斗鱼、虎牙直播
 
     - term: 影视-网站
       links: 
