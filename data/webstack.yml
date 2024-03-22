@@ -572,18 +572,6 @@
  
     - term: 一般下载
       links:
-        - title: FDM
-          logo: 
-          url: https://www.freedownloadmanager.org/zh/
-          description: 开源
-        - title: NDM
-          logo: 
-          url: http://www.neatdownloadmanager.com/index.php/en/
-          description: 支持浏览器扩展,嗅探（自动合成多个ts文件）
-        - title: XDM
-          logo: 
-          url: https://github.com/subhra74/xdm
-          description: 支持浏览器扩展
         - title: IDM
           logo: 
           url: https://www.internetdownloadmanager.com/
@@ -592,6 +580,38 @@
           logo:  
           url: https://github.com/lstprjct/IDM-Activation-Script
           description: 6k star,IDM激活和跟踪重置脚本，一行代码激活IDM
+        - title: Gopeed
+          logo: 
+          url: https://gopeed.com/zh-CN
+          description: 开源、支持HTTP、BitTorrent、Magnet
+        - title: 文件蜈蚣
+          logo: 
+          url: https://www.filecxx.com/zh_CN/
+          description: 全能，http、磁力，浏览器扩展，资源嗅探
+        - title: Motrix
+          logo: 
+          url: https://motrix.app/
+          description: 42.5k star,开源，支持下载HTTP、FTP、BT、磁力链接等资源
+        - title: Xdown
+          logo: 
+          url: https://xdown.org/
+          description: 免费idm / torrent 合成体
+        - title: Yolx
+          logo: 
+          url: https://yolx.yzzi.icu/
+          description: 以「Aria 2」作为核心，支持直链、磁力链接、迅雷链接、快车链接、QQ旋风链接、metalink和种子
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: Arrow Downloader
+          logo: 
+          url: https://www.arrow-dl.com/
+          description: 
+        - title: Hitomi-Downloader
+          logo: 
+          url: https://github.com/KurtBestor/Hitomi-Downloader
+          description: 19.2k star,网页下载
         - title: BitComet
           logo: 
           url: https://www.bitcomet.com/cn
@@ -608,22 +628,6 @@
           logo: 
           url: https://codecpack.co/download/LIII-BitTorrent-Client.html
           description: 开源文件共享实用程序，能够下载种子
-        - title: Motrix
-          logo: 
-          url: https://motrix.app/
-          description: 42.5k star,开源，支持下载HTTP、FTP、BT、磁力链接等资源
-        - title: Xdown
-          logo: 
-          url: https://xdown.org/
-          description: 免费idm / torrent 合成体
-        - title: Arrow Downloader
-          logo: 
-          url: https://www.arrow-dl.com/
-          description: 
-        - title: Hitomi-Downloader
-          logo: 
-          url: https://github.com/KurtBestor/Hitomi-Downloader
-          description: 19.2k star,网页下载
         - title: WebTorrent
           logo: 
           url: https://webtorrent.io/
@@ -636,14 +640,18 @@
           logo: 
           url: http://lightzhan.xyz/index.php/qdown/
           description: 支持迅雷链接、磁力下载、BT、FTP、SFTP、HTTP、HTTPS下载协议，基于Aria2的Windows文件下载器
-        - title: Gopeed
+        - title: FDM
           logo: 
-          url: https://gopeed.com/zh-CN
-          description: 开源、支持HTTP、BitTorrent、Magnet
-        - title: 文件蜈蚣
+          url: https://www.freedownloadmanager.org/zh/
+          description: 开源
+        - title: NDM
           logo: 
-          url: https://www.filecxx.com/zh_CN/
-          description: 全能，http、磁力，浏览器扩展，资源嗅探
+          url: http://www.neatdownloadmanager.com/index.php/en/
+          description: 支持浏览器扩展,嗅探（自动合成多个ts文件）
+        - title: XDM
+          logo: 
+          url: https://github.com/subhra74/xdm
+          description: 支持浏览器扩展
         - title: tdl 
           logo: 
           url: https://docs.iyear.me/tdl/zh/
@@ -715,6 +723,14 @@
           logo: 
           url: https://rememberber.github.io/WePush/
           description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+        - title: 水豚鼠标助手
+          logo: 
+          url: https://shuitunapp.com/
+          description: 屏幕演示工具,鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: 
           logo: 
           url: 
