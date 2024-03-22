@@ -863,10 +863,6 @@
 
     - term: Office
       links:
-        - title: FreeOffice
-          logo: 
-          url: https://www.freeoffice.com/zh/
-          description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
         - title: OfficeToolPlus
           logo: 
           url: https://otp.landian.vip/zh-cn/
@@ -875,6 +871,18 @@
           logo: 
           url: https://www.mocreak.com/
           description: 6.7k star,一键自动化、无人值守下载、安装、部署 Office 的利器
+        - title: Microsoft Activation Scripts (MAS)
+          logo: 
+          url: https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file
+          description: 67.4k star,windows和office激活
+        - title: KMS_VL_ALL_AIO
+          logo: 
+          url: https://github.com/abbodi1406/KMS_VL_ALL_AIO
+          description: 7.6k star,智能激活脚本
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: MSDN
           logo: 
           url: https://msdn.itellyou.cn/
@@ -883,14 +891,14 @@
           logo: 
           url: https://next.itellyou.cn/
           description: 镜像下载
-        - title: Microsoft Activation Scripts (MAS)
-          logo: 
-          url: https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file
-          description: 67.4k star,windows和office激活
         - title: Office2013-2019C2RInstall
           logo: 
           url: https://www.nsaneforums.com/topic/332794-office-2013-2019-c2r-install-install-lite-654/
-          description: 
+          description: 2024.3发现官网失效
+        - title: FreeOffice
+          logo: 
+          url: https://www.freeoffice.com/zh/
+          description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
 
     - term: office插件
       links:
