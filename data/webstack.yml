@@ -222,10 +222,18 @@
           logo: 
           url: https://github.com/qier222/YesPlayMusic
           description: 26.5k star,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+        - title: go-musicfox
+          logo: 
+          url: https://github.com/go-musicfox/go-musicfox
+          description: 1.2K Star,基于Go语言，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
         - title: 
           logo: 
           url: 
-          description:
+          description: 
+        - title: unblockneteasemusic
+          logo: 
+          url: https://github.com/topics/unblockneteasemusic
+          description: 5 public repositories
         - title: electron-vue-cloud-music
           logo: 
           url: https://github.com/xiaozhu188/electron-vue-cloud-music
@@ -376,6 +384,14 @@
           logo: 
           url: https://github.com/xushengfeng/eSearch
           description: 2.8k star,长截屏、离线OCR、搜索翻译、贴图、录屏
+        - title: pear-rec
+          logo: 
+          url: https://027xiguapi.github.io/pear-rec/
+          description: 开源，截图、录屏、录音、录像软件
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: SETUNA2
           logo: 
           url: https://github.com/tylearymf/SETUNA2
@@ -694,7 +710,15 @@
         - title: CleanMyWechat
           logo: 
           url: https://github.com/blackboxo/CleanMyWechat
-          description: 开源，自动删除PC微信缓存数据
+          description: 4k star，自动删除PC微信缓存数据
+        - title: WePush
+          logo: 
+          url: https://rememberber.github.io/WePush/
+          description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: MemReduct
           logo: 
           url: https://www.henrypp.org/product/memreduct
