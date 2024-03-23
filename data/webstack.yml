@@ -534,10 +534,10 @@
           logo: 
           url: https://www.52pojie.cn/thread-1897944-1-1.html
           description: 夸克网盘批量转存
-        - title: 
+        - title: filestash
           logo: 
-          url: 
-          description: 
+          url: https://github.com/mickael-kerjean/filestash
+          description: 9.3k star,跨网盘文件管理，支持FTP • FTPS • SFTP • WebDAV • Git • Dropbox • Google Drive
         - title: 
           logo: 
           url: 
@@ -549,6 +549,14 @@
           logo: 
           url: https://nilaoda.github.io/N_m3u8DL-CLI/
           description: 13.3k star,载m3u8的命令行工具
+        - title: N_m3u8DL-RE
+          logo: 
+          url: https://github.com/nilaoda/N_m3u8DL-RE
+          description: 3.3K Star,跨平台的DASH/HLS/MSS下载工具。支持点播、直播(DASH/HLS)
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: lux
           logo: 
           url: https://github.com/iawia002/lux
@@ -808,10 +816,18 @@
           logo: 
           url: https://www.sumatrapdfreader.org
           description: pdf阅读器，开源，支持PDF、epub、mobi、SPS,DjVu,CHM,CBZ和CBR格式
-        - title: Okular
+        - title: PDFgear
           logo: 
-          url: https://okular.kde.org/zh-cn/
-          description: Okular 是一款功能丰富、轻巧快速的跨平台文档阅读器。您可以使用它来阅读 PDF 文档、漫画电子书、Epub 电子书，浏览图像，显示标记语言文档等。
+          url: https://www.pdfgear.com/zh/
+          description: WPS平替，阅读、编辑、转换、合并和跨设备签署PDF文件，且无需注册。
+        - title: pdfarranger
+          logo: 
+          url: https://github.com/pdfarranger/pdfarranger
+          description: 2.9k star,合并或拆分 PDF 文档，并使用交互式和直观的图形界面旋转、裁剪和重新排列页面
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: PDFsamBasic
           logo: 
           url: https://pdfsam.org/
@@ -856,10 +872,10 @@
           logo: 
           url: http://editor.foxitsoftware.cn/
           description: 专业，号称“永久免费试用”；试用版在可编辑的第一页添加全局水印，二次编辑在第二页添加水印，依此类推。
-        - title: PDFgear
+        - title: Okular
           logo: 
-          url: https://www.pdfgear.com/zh/
-          description: 阅读、编辑、转换、合并和跨设备签署PDF文件，且无需注册。
+          url: https://okular.kde.org/zh-cn/
+          description: Okular 是一款功能丰富、轻巧快速的跨平台文档阅读器。您可以使用它来阅读 PDF 文档、漫画电子书、Epub 电子书，浏览图像，显示标记语言文档等。
 
     - term: Office
       links:
@@ -1202,6 +1218,14 @@
           
     - term: 快捷启动
       links: 
+        - title: Flow Launcher
+          logo: 
+          url: https://www.flowlauncher.com/
+          description: 6k star,
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: Wox
           logo: 
           url: http://www.wox.one/
@@ -1230,10 +1254,10 @@
           logo: 
           url: https://hp.vector.co.jp/authors/VA018351/en/claunch.html
           description: 日本软件，
-        - title: 
+        - title: Listary 
           logo: 
-          url: 
-          description: 
+          url: https://www.listary.com/
+          description: 免费版
 
     - term: 鼠标手势
       links: 
