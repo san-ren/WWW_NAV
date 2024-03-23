@@ -1226,6 +1226,14 @@
           logo: 
           url: https://getquicker.net/
           description: 
+        - title: CLaunch
+          logo: 
+          url: https://hp.vector.co.jp/authors/VA018351/en/claunch.html
+          description: 日本软件，
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 鼠标手势
       links: 
@@ -1241,6 +1249,18 @@
           logo: 
           url: https://mouseplus.cn/
           description: 鼠标手势软件，内置可视化脚本编辑器，上百个脚本步骤，随意组合
+        - title: MouseGestureL.ahk
+          logo: 
+          url: https://hp.vector.co.jp/authors/VA018351/en/mglahk.html
+          description: 日本软件，2022停更
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: Stroke
+          logo: 
+          url: https://github.com/poerin/Stroke
+          description: 鼠标手势，无四角手势，自行编写，2021停更
         - title: OneQuick
           logo: 
           url: https://onequick.org/
@@ -1253,10 +1273,6 @@
           logo: 
           url: https://github.com/majorworld/Wheel
           description: 24个屏幕边缘触发器，2020停更
-        - title: Stroke
-          logo: 
-          url: https://github.com/poerin/Stroke
-          description: 鼠标手势，无四角手势，自行编写，2021停更
         - title: strokesplus
           logo: 
           url: https://onequick.org/
