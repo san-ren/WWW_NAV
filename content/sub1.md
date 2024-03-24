@@ -1,6 +1,6 @@
 ---
 type: nav #固定值nav(生成导航页)
-title: 互联网导航 之 <br> 办公相关 #留空则使用网站标题
+title: 办公相关 #留空则使用网站标题
 search: #搜索栏
   enable: true #true显示，false不显示
 edit: #在线编辑
@@ -9,10 +9,8 @@ edit: #在线编辑
 
 data: #以下为导航链接内容
 
-- taxonomy: 办公相关
+- taxonomy: 
   icon: fa-palette
-  list: 
-    - term: 小
       links:
         - title: Geek
           logo: 
@@ -79,7 +77,10 @@ data: #以下为导航链接内容
           url: https://github.com/sandboxie-plus/Sandboxie
           description: 开源
 
-    - term: 翻译
+
+
+- taxonomy: 翻译
+  icon: fa-palette 
       links:
         - title: CrowTranslate
           logo: 
@@ -94,7 +95,11 @@ data: #以下为导航链接内容
           url: https://copytranslator.github.io/
           description: 翻译工具
   
-    - term: OCR
+
+
+  
+- taxonomy: OCR
+  icon: fa-palette
       links:
         - title: 天若OCR
           logo: 
@@ -113,7 +118,10 @@ data: #以下为导航链接内容
           url: 
           description: 
 
-    - term: PDF
+
+
+- taxonomy: PDF
+  icon: fa-palette
       links:
         - title: SumatraPDF
           logo: 
@@ -180,7 +188,11 @@ data: #以下为导航链接内容
           url: https://okular.kde.org/zh-cn/
           description: Okular 是一款功能丰富、轻巧快速的跨平台文档阅读器。您可以使用它来阅读 PDF 文档、漫画电子书、Epub 电子书，浏览图像，显示标记语言文档等。
 
-    - term: Office
+
+
+
+- taxonomy: Office
+  icon: fa-palette 
       links:
         - title: OfficeToolPlus
           logo: 
@@ -219,7 +231,11 @@ data: #以下为导航链接内容
           url: https://www.freeoffice.com/zh/
           description: 号称是Microsoft Office 的最佳免费替代品,邮箱注册发送序列号
 
-    - term: office插件
+
+
+
+- taxonomy: office插件
+  icon: fa-palette 
       links:
         - title: Office Tab
           logo: 
@@ -266,7 +282,11 @@ data: #以下为导航链接内容
           url: 
           description: 
 
-    - term: 文件管理
+
+
+
+- taxonomy: 文件管理
+  icon: fa-palette 
       links:
         - title: anytxt
           logo: 
@@ -313,7 +333,11 @@ data: #以下为导航链接内容
           url: https://pmzeroskyline.github.io/FreeApps/
           description: 文件批量重命名
 
-    - term: 局域网传输
+
+
+
+- taxonomy: 局域网传输
+  icon: fa-palette 
       links:
         - title: 闪电藤
           logo: 
@@ -352,7 +376,11 @@ data: #以下为导航链接内容
           url: https://github.com/beakerbrowser/beaker
           description: 6.7k star,2020归档，p2p浏览器
   
-    - term: 同步
+
+
+
+- taxonomy: 同步
+  icon: fa-palette 
       links:
         - title: FileGee
           logo: 
@@ -371,7 +399,11 @@ data: #以下为导航链接内容
           url: https://www.microsoft.com/en-us/download/details.aspx?id=15155
           description: 微软出品，免费，2009年更新，不支持Win10
   
-    - term: Win系统管理
+
+
+
+- taxonomy: Win系统管理
+  icon: fa-palette 
       links:
         - title: ExplorerPatcher
           logo: 
@@ -446,7 +478,11 @@ data: #以下为导航链接内容
           url: http://www.dayanzai.me/fixwin-11.html
           description: win11/10修复
   
-    - term: 远程控制
+
+
+
+- taxonomy: 远程控制
+  icon: fa-palette 
       links: 
         - title: ToDesk
           logo: 
@@ -476,6 +512,9 @@ data: #以下为导航链接内容
           logo: 
           url: https://yc.uu.163.com/
           description: 
+
+
+
 - taxonomy: 友情链接
   icon: fa-link
   friend:
