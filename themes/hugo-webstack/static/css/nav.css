@@ -1,5 +1,5 @@
-body{background-color:#f9f9f9}a{color:#282828;outline:0 !important}p{color:#878888}html,body{height:100%;margin:0;padding:0;border:0}
-a:hover,a:focus{color:#232323;text-decoration:none}
+body{background-color:#f9f9f9}a{color:#538a22;outline:0 !important}p{color:#cf9115}html,body{height:100%;margin:0;padding:0;border:0}
+a:hover,a:focus{color:#e028da;text-decoration:none}
 .box2{height:86px;border-radius:4px;padding:0px 30px 0px 30px;background-color:#fff;border-radius:4px;border:1px solid #e4ecf3;-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease}
 .box2:hover{transform:translateY(-6px);-webkit-transform:translateY(-6px);-moz-transform:translateY(-6px);box-shadow:0 26px 40px -24px rgba(0,36,100,.3);-webkit-box-shadow:0 26px 40px -24px rgba(0,36,100,.3);-moz-box-shadow:0 26px 40px -24px rgba(0,36,100,.3);-webkit-transition:all 0.3s ease;-moz-transition:all 0.3s ease;-o-transition:all 0.3s ease;transition:all 0.3s ease}
 .ps-container .ps-scrollbar-x-rail{position:absolute;bottom:3px;height:5px;zoom:1;filter:alpha(opacity=0);-webkit-opacity:0;-moz-opacity:0;opacity:0;-webkit-transition:background-color .2s linear,opacity .2s linear;-moz-transition:background-color .2s linear,opacity .2s linear;-o-transition:background-color .2s linear,opacity .2s linear;transition:background-color .2s linear,opacity .2s linear}
