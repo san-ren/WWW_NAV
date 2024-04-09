@@ -343,7 +343,7 @@ input[type="button"],input[type="submit"]{background-color:#222;border:0;-webkit
 .black,.black a:not(.btn),.black .button>a{color:#ddd}
 .black p{color:#bcbcbc}
 .black .tpwthwidt .text_235ileA,.black .tpwthwidt .title_2Cea4o9,.black .comments-area label{color:#bbb}
-.black .text-gray,.black .comment-body{color:#888}
+.black .text-gray,.black .comment-body{color:#1e0303}
 .black .xe-widget.xe-conversations,.black #search-text,.black .search-type input:checked+label,.black .search-type input:hover+label,.black .panel,.black .comments-area{background-color:#3d4044}
 .black .s-type-list{background-color:#1f2123;box-shadow:0 9px 20px rgba(0,0,0,.3)}
 .black .s-type-list:before{border-bottom-color:#1f2123}
