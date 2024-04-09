@@ -388,10 +388,6 @@
           logo: 
           url: https://027xiguapi.github.io/pear-rec/
           description: 开源，截图、录屏、录音、录像软件
-        - title: 
-          logo: 
-          url: 
-          description: 
         - title: SETUNA2
           logo: 
           url: https://github.com/tylearymf/SETUNA2
@@ -427,11 +423,7 @@
         - title: Sniptool
           logo: 
           url: https://www.reasyze.com/Sniptool/
-          description: 便携，截图，2020停更
-        - title: Screenote
-          logo: 
-          url: https://github.com/poerin/Screenote
-          description: 2021停更
+          description: 便携，截图
         - title: verycapture
           logo: 
           url: https://verycapture.com/cn/index.html
