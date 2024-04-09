@@ -163,7 +163,7 @@ nav.navbar .navbar-nav li a{padding-left:20px;padding-right:20px}nav.navbar.navb
 a:hover{text-decoration:none}
 .form-control{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
 .form-control:focus,.form-control:active{outline:0;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
-.text-gray{color:#555}
+.text-gray{color:#0f0101}
 .breadcrumb-env{margin:-10px 0 0 -15px}
 footer.main-footer .footer-text{float:left} 
 .panel.expanded .accordion-toggle:before{content:'–' !important}
