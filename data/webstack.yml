@@ -428,6 +428,29 @@
           logo: 
           url: https://verycapture.com/cn/index.html
           description: 付费，老牌软件，长截图、OCR、录屏，可去portableapps.com或portablefreeware.com下载便携版
+        - title: IOPaint
+          logo:
+          url: https://www.iopaint.com/
+          description: 擦除、修复、放大、无中生有；AI
+        - title: Lama-Cleaner-lama
+          logo:
+          url: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
+          description: 去除图片水印
+          
+    - term: 视频
+      links: 
+        - title: Video-subtitle-remover
+          logo:
+          url: https://github.com/YaoFANGUK/video-subtitle-remover
+          description: AI去除视频水印、字幕
+        - title: ProPainter
+          logo:
+          url: https://github.com/sczhou/ProPainter
+          description: 去视频的移动水印和移动物体
+        - title: ProPainter（2）
+          logo:
+          url: https://huggingface.co/spaces/sczhou/ProPainter
+          description: HuggingFace在线使用
 
     - term: 录屏、GIF
       links: 
