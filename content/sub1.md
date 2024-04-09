@@ -1,6 +1,6 @@
 ---
 type: nav #固定值nav(生成导航页)
-title: 办公相关 #留空则使用网站标题
+title: 工具 #留空则使用网站标题
 search: #搜索栏
   enable: true #true显示，false不显示
 edit: #在线编辑
