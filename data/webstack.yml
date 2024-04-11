@@ -328,7 +328,7 @@
           url: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
           description: 去除图片水印
           
-    - term: 视频
+    - term: 视频编辑
       links: 
         - title: Video-subtitle-remover
           logo:
@@ -371,26 +371,7 @@
       
 - taxonomy: 下载
   icon: fa-thumbs-up
-  list: 
-    - term: B站下载
-      links:
-        - title: bilix
-          logo: 
-          url: https://github.com/HFrost0/bilix
-          description: 异步下载
-        - title: 哔哩下载姬downkyi
-          logo: 
-          url: https://github.com/leiurayer/downkyi
-          description: up主合集和列表,个人收藏夹以及批量下载
-        - title: Bilidown
-          logo: 
-          url: http://zhouql.vip/bilibili/pc/
-          description: 网页，单文件，安装版，批量下载up播放列表
-        - title: 唧唧Down
-          logo: 
-          url: http://client.jijidown.com/
-          description: 都能解析，但不太好使
-      
+  list:       
     - term: 微信公众号下载
       links: 
         - title: wechatDownload
