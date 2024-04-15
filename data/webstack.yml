@@ -429,42 +429,6 @@
           logo: 
           url: 
           description: 
-
-    - term: 视频下载
-      links: 
-        - title: N_m3u8DL-CLI
-          logo: 
-          url: https://nilaoda.github.io/N_m3u8DL-CLI/
-          description: 13.3k star,载m3u8的命令行工具
-        - title: N_m3u8DL-RE
-          logo: 
-          url: https://github.com/nilaoda/N_m3u8DL-RE
-          description: 3.3K Star,跨平台的DASH/HLS/MSS下载工具。支持点播、直播(DASH/HLS)
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: lux
-          logo: 
-          url: https://github.com/iawia002/lux
-          description: 23.5k star,用 Go 语言编写的视频下载库和 CLI 工具，多线程下载、断点续传、自动重试,下载视频、音频、字幕、播放列表，包括 B站、抖音、爱奇艺、芒果TV、微博、腾讯视频、小红书等
-        - title: Vdl
-          logo: 
-          url: https://www.52pojie.cn/thread-1231565-1-1.html
-          description: 基于You-get的图形界面，吾爱大佬制作
-        - title: you-get
-          logo: 
-          url: https://github.com/soimort/you-get
-          description: 49.1k star，命令行实用程序，用于从 Web 下载媒体内容
-        - title: CRTubeGet
-          logo: 
-          url: https://www.cr-soft.net/crtubeget.html
-          description: 全网视频下载工具
-        - title: WebTorrent
-          logo: 
-          url: https://webtorrent.io/
-          description: 磁力播放，浏览器使用不需扩展
- 
     - term: 一般下载
       links:
         - title: IDM
