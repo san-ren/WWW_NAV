@@ -255,6 +255,10 @@
           logo: 
           url: http://www.o345.com/gengxin-log/632.html
           description: 流式看图
+        - title: PixPin
+          logo: 
+          url: https://pixpinapp.com/
+          description: 长截图、贴图、OCR、GIF，2023新兴软件，Snipaste专业版平替
         - title: Snipaste
           logo: 
           url: https://zh.snipaste.com/
@@ -263,10 +267,10 @@
           logo: 
           url: https://getsharex.com/
           description: 27.1k star,编辑功能强大，适合专业人士，未适配高分屏（2024.3），显示过小
-        - title: PixPin
+        - title: Flameshot
           logo: 
-          url: https://pixpinapp.com/
-          description: 长截图、贴图、OCR、GIF，2023新兴软件，Snipaste专业版平替
+          url: https://flameshot.org/
+          description: 23.3k star，标注功能强大，全平台
         - title: PicPick
           logo: 
           url: https://picpick.app/zh/
@@ -283,6 +287,10 @@
           logo: 
           url: https://github.com/tylearymf/SETUNA2
           description: 截图小工具（支持高分屏截图），个人接管
+        - title: Pretty Snap
+          logo: 
+          url: https://pretty-snap.iwhy.dev
+          description: 截图添加纯色背景美化
         - title: ShapeCollage
           logo: 
           url: http://www.shapecollage.com/
