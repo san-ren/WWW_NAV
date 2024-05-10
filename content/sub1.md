@@ -28,6 +28,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/blackboxo/CleanMyWechat
       description: 4k star，自动删除PC微信缓存数据
+    - title: WXMoments
+      logo: 
+      url: https://github.com/tech-shrimp/WechatMoments
+      description: WX 朋友圈导出为 HTML 
     - title: WePush
       logo: 
       url: https://rememberber.github.io/WePush/
@@ -36,14 +40,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://shuitunapp.com/
       description: 屏幕演示工具,鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时
-    - title: 
+    - title: Weibo-archiver
       logo: 
-      url: 
-      description: 
-    - title: 
+      url: https://weibo.chilfish.top/post
+      description: 将微博导出备份的油猴脚本
+    - title: WindowTop
       logo: 
-      url: 
-      description: 
+      url: https://github.com/WindowTop/WindowTop-App
+      description: 免费功能开源，置顶、画中画和裁剪、锚点、透明度，替换主程序https://www.123pan.com/s/6zVRVv-11fmd.html
     - title: MemReduct
       logo: 
       url: https://www.henrypp.org/product/memreduct
@@ -135,10 +139,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/pdfarranger/pdfarranger
       description: 2.9k star,合并或拆分 PDF 文档，并使用交互式和直观的图形界面旋转、裁剪和重新排列页面
-    - title: 
+    - title: pdf-helper
       logo: 
-      url: 
-      description: 
+      url: https://github.com/iamlinhui/pdf-helper
+      description: PDF压缩和导出PDF图片工具
     - title: PDFsamBasic
       logo: 
       url: https://pdfsam.org/
@@ -453,6 +457,18 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.diskgenius.cn/
       description: 硬盘管理
+    - title: OFGB
+      logo: 
+      url: https://github.com/xM4ddy/OFGB
+      description: 4.4k star，关闭win11系统广告
+    - title: Winpilot
+      logo: 
+      url: https://github.com/builtbybel/Winpilot
+      description: 4.3k star，Win11 优化，不支持中文
+    - title: RyTuneX
+      logo: 
+      url: https://rayenghanmi.github.io/rytunex/index.html
+      description: 开源，系统轻度优化
     - title: Windows超级管理器
       logo: 
       url: https://www.colithel.com/supermanager.html
