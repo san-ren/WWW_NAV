@@ -365,6 +365,10 @@
           logo: 
           url: https://www.ieway.cn/evcapture.html
           description: 
+        - title: Video to GIF
+          logo: 
+          url: https://lyonbot.github.io/video-to-gif/
+          description: 在线，使用 WebCodec 解码视频
         - title: Captura
           logo: 
           url: https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html
