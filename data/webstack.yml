@@ -117,6 +117,10 @@
           logo: 
           url: https://github.com/go-musicfox/go-musicfox
           description: 1.2K Star,基于Go语言，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+        - title: musicn
+          logo: 
+          url: https://github.com/zonemeen/musicn
+          description: 1.6k star，可播放及下载音乐的 Node.js 命令行工具
         - title: 
           logo: 
           url: 
@@ -335,6 +339,10 @@
           logo:
           url: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
           description: 去除图片水印
+        - title: AutoScreenShot
+          logo: 
+          url: https://github.com/artem78/AutoScreenshot
+          description: 开源自动定时屏幕截图
           
     - term: 视频编辑
       links: 
@@ -441,6 +449,7 @@
           logo: 
           url: 
           description: 
+
     - term: 一般下载
       links:
         - title: IDM
