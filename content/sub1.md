@@ -340,6 +340,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.softwareok.eu/
       description: 文件管理器，默认四个小窗口组成一个大窗口
+    - title: 文件名精灵
+      logo: 
+      url: https://www.ecdove.com/
+      description: 批量修改文件、文件夹名称
     - title: Advanced Renamer
       logo: 
       url: https://www.advancedrenamer.com/
@@ -352,6 +356,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://arayofsunshine.dev/hummingbird
       description: 常见文件格式压缩
+    - title: File Converter
+      logo: 
+      url: https://file-converter.io/
+      description: 文件格式转换，支持简中，
 
 
 
@@ -383,6 +391,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/spieglt/FlyingCarpet
       description: 3k star,Android、iOS、Linux、macOS 和 Windows 客户端。
+    - title: 爱传送/MFiles
+      logo: 
+      url: https://mfiles.maokebing.com/
+      description: 
     - title: CuteHttpFileServer/chfs
       logo: 
       url: http://iscute.cn/chfs
