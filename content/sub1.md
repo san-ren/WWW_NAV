@@ -32,6 +32,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/tech-shrimp/WechatMoments
       description: WX 朋友圈导出为 HTML 
+    - title: WeChat2PDF
+      logo: 
+      url: https://www.wechat2pdf.com/
+      description: 微信公众号/订阅号文章在线导出/转换为PDF
+    - title: WeChatMsg/留痕
+      logo: 
+      url: https://memotrace.lc044.love/
+      description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
     - title: WePush
       logo: 
       url: https://rememberber.github.io/WePush/
