@@ -171,6 +171,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.cnblogs.com/pdfpatcher/
       description: 多功能PDF工具箱，“0.6.2版可能是PDF补丁丁的最后一版。它在未来将不再更新。”免安装，解压即用
+    - title: 飞扬PDF
+      logo: 
+      url: https://www.viyoung.net/
+      description: 转换、合并、分割、压缩、旋转、添加水印和保护 PDF
     - title: XoDoPDFReader
       logo: 
       url: https://www.xodo.com/#
@@ -344,6 +348,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://pmzeroskyline.github.io/FreeApps/
       description: 文件批量重命名
+    - title: Hummingbird
+      logo: 
+      url: https://arayofsunshine.dev/hummingbird
+      description: 常见文件格式压缩
 
 
 
@@ -367,6 +375,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/bitepeng/b0pass
       description: 2k star,局域网共享文件,基于Go语言
+    - title: alley-transfer/小路速传
+      logo: 
+      url: https://github.com/alley-rs/alley-transfer
+      description: 
     - title: FlyingCarpet
       logo: 
       url: https://github.com/spieglt/FlyingCarpet
