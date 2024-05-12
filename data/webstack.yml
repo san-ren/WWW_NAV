@@ -113,6 +113,10 @@
           logo: 
           url: https://github.com/qier222/YesPlayMusic
           description: 26.5k star,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+        - title: SPlayer
+          logo: 
+          url: https://github.com/imsyy/SPlayer
+          description: 网易云第三方
         - title: go-musicfox
           logo: 
           url: https://github.com/go-musicfox/go-musicfox
