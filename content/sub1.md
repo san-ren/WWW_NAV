@@ -106,6 +106,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://copytranslator.github.io/
       description: 翻译工具
+    - title: Image/Manga Translator
+      logo: 
+      url: https://github.com/zyddnys/manga-image-translator
+      description: 4.3k star，一键翻译各类图片内文字 
 
 
 
@@ -146,7 +150,7 @@ data: #以下为导航链接内容
     - title: pdfarranger
       logo: 
       url: https://github.com/pdfarranger/pdfarranger
-      description: 2.9k star,合并或拆分 PDF 文档，并使用交互式和直观的图形界面旋转、裁剪和重新排列页面
+      description: 3k star,合并或拆分 PDF 文档，并使用交互式和直观的图形界面旋转、裁剪和重新排列页面
     - title: pdf-helper
       logo: 
       url: https://github.com/iamlinhui/pdf-helper
@@ -375,6 +379,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://lightningvine.zishu.life/
       description: 基于LocalSend二次开发的一款局域网文件传输工具
+    - title: HybridFileXfer/双轨快传
+      logo: 
+      url: https://github.com/weixiansen574/HybridFileXfer
+      description: 同时使用USB和WIFI传输文件到电脑 
     - title: localsend
       logo: 
       url: https://github.com/localsend/localsend
