@@ -352,6 +352,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://pmzeroskyline.github.io/FreeApps/
       description: 文件批量重命名
+    - title: MiniRenamer
+      logo: 
+      url: https://abc100.net/106/
+      description: 批量文件重命名工具
     - title: Hummingbird
       logo: 
       url: https://arayofsunshine.dev/hummingbird
