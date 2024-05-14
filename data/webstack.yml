@@ -46,6 +46,25 @@
   list: 
     - term: 音乐-win
       links: 
+        - title: Listen1
+          logo: 
+          url: https://github.com/listen1
+          description: 9.3k star,一个基于 electron 的音乐软件,PC、浏览器扩展、安卓、iOS，在线音乐播放
+        - title: 洛雪音乐助手
+          logo: 
+          url: https://github.com/lyswhut/lx-music-desktop
+          description: 35.6k star,在线音乐播放，
+        - title: 六音音源
+          logo:
+          url: https://www.sixyin.com/8498.html
+        - title: MusicFree
+          logo: 
+          url: https://github.com/maotoumao
+          description: 5.1k/1.7k star,安卓、Windows、macos，插件化、定制化、无广告的免费音乐播放器
+        - title: 方格音乐
+          logo: 
+          url: http://fonger.top/
+          description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
         - title: 音乐标签
           logo: 
           url: https://www.cnblogs.com/vinlxc/p/11347744.html
@@ -66,14 +85,7 @@
           logo: 
           url: https://mcool.appinn.me/
           description: 极简，开源，跨平台，本地音乐播放器
-        - title: AIMP
-          logo: 
-          url: http://www.aimp.ru/
-          description: 
-        - title: Winamp
-          logo: 
-          url: https://www.winamp.com/
-          description: 老牌播放器
+        
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
@@ -86,25 +98,14 @@
           logo: 
           url: https://download.music.mimicry.cool/
           description: 拟物风音视频播放器，win、Android
-        - title: Listen1
+        - title: AIMP
           logo: 
-          url: https://github.com/listen1
-          description: 9.3k star,一个基于 electron 的音乐软件,PC、浏览器扩展、安卓、iOS，在线音乐播放
-        - title: 洛雪音乐助手
+          url: http://www.aimp.ru/
+          description: 
+        - title: Winamp
           logo: 
-          url: https://github.com/lyswhut/lx-music-desktop
-          description: 35.6k star,在线音乐播放，
-        - title: 六音音源
-          logo:
-          url: https://www.sixyin.com/8498.html
-        - title: MusicFree
-          logo: 
-          url: https://github.com/maotoumao
-          description: 5.1k/1.7k star,安卓、Windows、macos，插件化、定制化、无广告的免费音乐播放器
-        - title: 方格音乐
-          logo: 
-          url: http://fonger.top/
-          description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
+          url: https://www.winamp.com/
+          description: 老牌播放器
         - title: TTKMusicPlayer
           logo: 
           url: https://github.com/Greedysky/TTKMusicPlayer?tab=readme-ov-file
@@ -164,6 +165,10 @@
           logo: 
           url: https://github.com/maotoumao/MusicFree
           description: 插件化、定制化、无广告的免费音乐播放器
+        - title: KHMD/空痕音乐下载器
+          logo: 
+          url: https://www.khkj6.com/archives/19.html
+          description: 
         - title: Muviz Edge 
           logo: 
           url: https://play.google.com/store/apps/details?id=com.sparkine.muvizedge&ref=appinn
@@ -766,6 +771,10 @@
           logo: 
           url: https://github.com/Elestriel/TaskbarTools
           description: 任务栏透明、美化
+        - title: TranslucentSM
+          logo: 
+          url: https://github.com/rounk-ctrl/TranslucentSM
+          description: 开始菜单半透明/透明
         - title: ImTip
           logo: 
           url: https://github.com/aardio/ImTip?tab=readme-ov-file
