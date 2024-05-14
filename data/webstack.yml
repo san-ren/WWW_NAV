@@ -185,6 +185,10 @@
           logo: 
           url: 音乐时刻
           description: 无广，网站套壳
+        - title: Spotube
+          logo: 
+          url: https://spotube.krtirtho.dev/
+          description: 24.8k star，开源 Spotify 客户端，支持YouTube、Piped、Jiosaavn音源
         - title:  不倦
           logo: 
           url: https://github.com/2697a/bujuan
@@ -193,10 +197,6 @@
           logo: 
           url: https://github.com/z-huang/InnerTune
           description: 3.4k star,第三方 YouTube Music 
-        - title: Spotube
-          logo: 
-          url: https://spotube.krtirtho.dev/
-          description: 24.8k star，开源 Spotify 客户端，支持YouTube、Piped、Jiosaavn音源
         - title: 音乐标签
           logo: 
           url: https://www.cnblogs.com/vinlxc/p/11932130.html
