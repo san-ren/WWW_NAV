@@ -145,10 +145,6 @@
 
     - term: 音乐-Android
       links: 
-        - title: 音乐标签
-          logo: 
-          url: https://www.cnblogs.com/vinlxc/p/11932130.html
-          description: 编辑歌曲的标题，专辑，艺术家，歌词，封面等信息,支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, MP4, M4A, OGG, MPC, OPUS, WMA, DSF, DFF等
         - title: 酷狗概念版
           logo: 
           url: https://activity.kugou.com/download/v-a23b0cf0/index.html
@@ -165,27 +161,15 @@
           logo: 
           url: https://github.com/maotoumao/MusicFree
           description: 插件化、定制化、无广告的免费音乐播放器
-        - title: KHMD/空痕音乐下载器
-          logo: 
-          url: https://www.khkj6.com/archives/19.html
-          description: 
-        - title: Muviz Edge 
-          logo: 
-          url: https://play.google.com/store/apps/details?id=com.sparkine.muvizedge&ref=appinn
-          description: 在屏幕边缘显示现场音乐可视化
-        - title: InnerTune
-          logo: 
-          url: https://github.com/z-huang/InnerTune
-          description: 3.4k star,第三方 YouTube Music 
-        - title: Spotube
-          logo: 
-          url: https://spotube.krtirtho.dev/
-          description: 24.8k star，开源 Spotify 客户端，支持YouTube、Piped、Jiosaavn音源
         - title: 音乐时刻
           logo: 
           url: https://flowus.cn/share/5bf1a0d1-5f58-4bd9-9cb6-3a4b2f7e4ae4
           description: 无广，可设置下载路径、命名格式、写入音乐标签、下载歌词文件，与歌词适配相似
-        - title: 极乐
+        - title: KHMD/空痕音乐下载器
+          logo: 
+          url: https://www.khkj6.com/archives/19.html
+          description: 
+       - title: 极乐
           logo: 
           url: https://wds.cxoip.com/797.html
           description: 无广，音乐下载
@@ -204,7 +188,23 @@
         - title:  不倦
           logo: 
           url: https://github.com/2697a/bujuan
-          description: Flutter移动端+桌面端三方网易云播放器
+          description: Flutter移动端+桌面端三方网易云播放器 
+        - title: InnerTune
+          logo: 
+          url: https://github.com/z-huang/InnerTune
+          description: 3.4k star,第三方 YouTube Music 
+        - title: Spotube
+          logo: 
+          url: https://spotube.krtirtho.dev/
+          description: 24.8k star，开源 Spotify 客户端，支持YouTube、Piped、Jiosaavn音源
+        - title: 音乐标签
+          logo: 
+          url: https://www.cnblogs.com/vinlxc/p/11932130.html
+          description: 编辑歌曲的标题，专辑，艺术家，歌词，封面等信息,支持FLAC, APE, WAV, AIFF, WV, TTA, MP3, MP4, M4A, OGG, MPC, OPUS, WMA, DSF, DFF等
+        - title: Muviz Edge 
+          logo: 
+          url: https://play.google.com/store/apps/details?id=com.sparkine.muvizedge&ref=appinn
+          description: 在屏幕边缘显示现场音乐可视化
         - title: 无损音乐
           logo: 
           url: 
