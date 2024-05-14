@@ -106,6 +106,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://copytranslator.github.io/
       description: 翻译工具
+    - title: STranslate
+      logo: 
+      url: https://stranslate.zggsong.com/
+      description: 1k star，即开即用、即用即走的翻译(OCR)工具
     - title: Image/Manga Translator
       logo: 
       url: https://github.com/zyddnys/manga-image-translator
