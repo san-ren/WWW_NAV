@@ -65,6 +65,42 @@
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
+        - title: TTKMusicPlayer
+          logo: 
+          url: https://github.com/Greedysky/TTKMusicPlayer?tab=readme-ov-file
+          description: 2.2k star,音乐播放器模仿酷狗，基于Qt和Qmmp库开发，支持Windows和Linux平台.
+        - title: go-musicfox
+          logo: 
+          url: https://github.com/go-musicfox/go-musicfox
+          description: 1.2K Star,基于Go语言，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
+        - title: musicn
+          logo: 
+          url: https://github.com/zonemeen/musicn
+          description: 1.6k star，可播放及下载音乐的 Node.js 命令行工具
+        - title: music-dl
+          logo: 
+          url: https://www.guanguans.cn/music-dl/
+          description: 音乐搜索下载
+        - title: YesPlayMusic
+          logo: 
+          url: https://github.com/qier222/YesPlayMusic
+          description: 26.5k star,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
+        - title: SPlayer
+          logo: 
+          url: https://github.com/imsyy/SPlayer
+          description: 网易云第三方
+        - title: unblockneteasemusic
+          logo: 
+          url: https://github.com/topics/unblockneteasemusic
+          description: 网易云第三方，5 public repositories
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: 音乐标签
           logo: 
           url: https://www.cnblogs.com/vinlxc/p/11347744.html
@@ -85,7 +121,6 @@
           logo: 
           url: https://mcool.appinn.me/
           description: 极简，开源，跨平台，本地音乐播放器
-        
         - title: MusicPlayer2
           logo: 
           url: https://github.com/zhongyang219/MusicPlayer2
@@ -106,34 +141,6 @@
           logo: 
           url: https://www.winamp.com/
           description: 老牌播放器
-        - title: TTKMusicPlayer
-          logo: 
-          url: https://github.com/Greedysky/TTKMusicPlayer?tab=readme-ov-file
-          description: 2.2k star,音乐播放器模仿酷狗，基于Qt和Qmmp库开发，支持Windows和Linux平台.
-        - title: YesPlayMusic
-          logo: 
-          url: https://github.com/qier222/YesPlayMusic
-          description: 26.5k star,高颜值的第三方网易云播放器，支持 Windows / macOS / Linux
-        - title: SPlayer
-          logo: 
-          url: https://github.com/imsyy/SPlayer
-          description: 网易云第三方
-        - title: go-musicfox
-          logo: 
-          url: https://github.com/go-musicfox/go-musicfox
-          description: 1.2K Star,基于Go语言，支持UnblockNeteaseMusic、各种音质级别、lastfm、MPRIS、MacOS交互响应（睡眠暂停、蓝牙耳机连接断开响应、菜单栏控制等）...
-        - title: musicn
-          logo: 
-          url: https://github.com/zonemeen/musicn
-          description: 1.6k star，可播放及下载音乐的 Node.js 命令行工具
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: unblockneteasemusic
-          logo: 
-          url: https://github.com/topics/unblockneteasemusic
-          description: 5 public repositories
         - title: electron-vue-cloud-music
           logo: 
           url: https://github.com/xiaozhu188/electron-vue-cloud-music
@@ -415,22 +422,26 @@
   list:       
     - term: 微信公众号下载
       links: 
+        - title: wechatDownload/微信公众号文章批量下载工具
+          logo:
+          url: https://github.com/qiye45/wechatDownload
+          description:  1.7k star, 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
         - title: wechatDownload
           logo: 
           url: https://github.com/xiaoguyu/wechatDownload
-          description: 单篇、批量
-        - title: 微信公众号文章批量下载工具
+          description: 单篇、批量，2024年5月19日归档
+        - title:  wechatVideoDownload/微信视频号下载工具
           logo: 
-          url: https://github.com/qiye45/wechatDownload
-          description: 
-        - title: wechatDownload
-          logo:
-          url: https://github.com/qiye45/wechatDownload
-          description:  微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件
+          url: https://github.com/qiye45/wechatVideoDownload
+          description: 微信视频号下载工具，支持视频、直播回放下载 
         - title: WeChat_Article
           logo: 
           url: https://github.com/1061700625/WeChat_Article
           description: 2023年6月停更
+        - title:  wechat-spider/微信爬虫
+          logo: 
+          url: https://github.com/striver-ing/wechat-spider
+          description: 2.2k star，爬取公众号所有 文章、阅读量、点赞量和评论内容，2022停更
 
     - term: 网盘
       links:
