@@ -20,15 +20,10 @@ data: #以下为导航链接内容
       logo:
       url: https://www.hibitsoft.ir/
       description: 免费，单文件,软件卸载,支持中文
-    
     - title: 水豚鼠标助手
       logo: 
       url: https://shuitunapp.com/
       description: 屏幕演示工具,鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时
-    - title: Weibo-archiver
-      logo: 
-      url: https://weibo.chilfish.top/post
-      description: 将微博导出备份的油猴脚本
     - title: WindowTop
       logo: 
       url: https://github.com/WindowTop/WindowTop-App
@@ -65,6 +60,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/sandboxie-plus/Sandboxie
       description: 开源
+    - title: 千峰办公助手
+      logo: 
+      url: https://www.52pojie.cn/thread-1900867-1-1.html
+      description: 集成了自动任务、系统工具、文件工具、PDF工具、OCR图文识别、文字处理、电子表格七个模块30余项实用功能。
+    - title: 
+      logo: 
+      url: 
+      description: 
 
 
 
@@ -92,6 +95,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://memotrace.lc044.love/
       description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+    - title: Weibo-archiver
+      logo: 
+      url: https://weibo.chilfish.top/post
+      description: 将微博导出备份的油猴脚本
     - title: WePush
       logo: 
       url: https://rememberber.github.io/WePush/
