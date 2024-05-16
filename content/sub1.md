@@ -20,30 +20,7 @@ data: #以下为导航链接内容
       logo:
       url: https://www.hibitsoft.ir/
       description: 免费，单文件,软件卸载,支持中文
-    - title: RevokeMsgPatcher
-      logo: 
-      url: https://github.com/huiyadanli/RevokeMsgPatcher
-      description: 微信/QQ/TIM防撤回补丁
-    - title: CleanMyWechat
-      logo: 
-      url: https://github.com/blackboxo/CleanMyWechat
-      description: 4k star，自动删除PC微信缓存数据
-    - title: WXMoments
-      logo: 
-      url: https://github.com/tech-shrimp/WechatMoments
-      description: WX 朋友圈导出为 HTML 
-    - title: WeChat2PDF
-      logo: 
-      url: https://www.wechat2pdf.com/
-      description: 微信公众号/订阅号文章在线导出/转换为PDF
-    - title: WeChatMsg/留痕
-      logo: 
-      url: https://memotrace.lc044.love/
-      description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-    - title: WePush
-      logo: 
-      url: https://rememberber.github.io/WePush/
-      description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+    
     - title: 水豚鼠标助手
       logo: 
       url: https://shuitunapp.com/
@@ -88,6 +65,37 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/sandboxie-plus/Sandboxie
       description: 开源
+
+
+
+
+- taxonomy: 大厂相关
+  icon: fa-palette 
+  links:
+    - title: RevokeMsgPatcher
+      logo: 
+      url: https://github.com/huiyadanli/RevokeMsgPatcher
+      description: 微信/QQ/TIM防撤回补丁
+    - title: CleanMyWechat
+      logo: 
+      url: https://github.com/blackboxo/CleanMyWechat
+      description: 4k star，自动删除PC微信缓存数据
+    - title: WXMoments
+      logo: 
+      url: https://github.com/tech-shrimp/WechatMoments
+      description: WX 朋友圈导出为 HTML 
+    - title: WeChat2PDF
+      logo: 
+      url: https://www.wechat2pdf.com/
+      description: 微信公众号/订阅号文章在线导出/转换为PDF
+    - title: WeChatMsg/留痕
+      logo: 
+      url: https://memotrace.lc044.love/
+      description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+    - title: WePush
+      logo: 
+      url: https://rememberber.github.io/WePush/
+      description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
 
 
 
@@ -242,6 +250,10 @@ data: #以下为导航链接内容
       logo: 
       url: 
       description: 
+    - title: HelloWindows
+      logo: 
+      url: https://hellowindows.cn/
+      description: Office/WPS、Windows镜像，精校 完整 极致 Windows系统下载仓储站
     - title: MSDN
       logo: 
       url: https://msdn.itellyou.cn/
