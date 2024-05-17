@@ -237,10 +237,14 @@ data: #以下为导航链接内容
 - taxonomy: Office
   icon: fa-palette 
   links:
+    - title: LKY Office Tools
+      logo: 
+      url: https://github.com/OdysseusYuan/LKY_OfficeTools
+      description: 7.4k star，一键自动化 下载、安装、激活 Office 的利器
     - title: OfficeToolPlus
       logo: 
       url: https://otp.landian.vip/zh-cn/
-      description: Office安装、激活、管理
+      description: 8.8k star, Office安装、激活、管理
     - title: mocreak
       logo: 
       url: https://www.mocreak.com/
