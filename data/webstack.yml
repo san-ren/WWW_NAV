@@ -857,6 +857,10 @@
 
     - term: 壁纸
       links: 
+        - title: Wallhaven
+          logo: 
+          url: https://github.com/leoFitz1024/wallhaven
+          description: 1.3k star, 基于wallhaven.cc的一款壁纸管理工具 
         - title: Splashy
           logo: 
           url: https://splashy.art/
