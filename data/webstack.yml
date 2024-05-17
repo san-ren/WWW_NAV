@@ -109,10 +109,10 @@
           logo: 
           url: https://www.foobar2000.org/
           description: 在音乐界的地位震古烁今
-        - title: foobox
+        - title: foobox-cn
           logo: 
           url: https://github.com/dream7180/foobox-cn?tab=readme-ov-file
-          description: 4k star,一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件
+          description: 4.1k star,一个 foobar2000 默认用户界面 (DUI) 的皮肤配置，基于 jsplitter (Spider Monkey Panel 版) 组件
         - title: foobar2000汉化版
           logo: 
           url: https://www.cnblogs.com/asionwu
@@ -481,10 +481,10 @@
           logo: 
           url: https://github.com/mickael-kerjean/filestash
           description: 9.5k star,跨网盘文件管理，支持FTP • FTPS • SFTP • WebDAV • Git • Dropbox • Google Drive
-        - title: 
+        - title: AList
           logo: 
-          url: 
-          description: 
+          url: https://alist.nn.ci/zh/
+          description: 38k star,  一个支持多存储的文件列表/WebDAV程序
 
     - term: 一般下载
       links:
@@ -500,6 +500,14 @@
           logo: 
           url: https://trackerslist.com/#/zh
           description: 23.4k star, 每天更新！全网热门 BT Tracker 列表！ 
+        - title: aria2
+          logo: 
+          url: https://aria2.github.io/
+          description: 33.7k star, 
+        - title: N_m3u8DL-RE
+          logo: 
+          url: https://github.com/nilaoda/N_m3u8DL-RE
+          description: 跨平台的DASH/HLS/MSS下载工具。支持点播、直播(DASH/HLS)。N_m3u8DL-CLI的迭代，
         - title: Gopeed
           logo: 
           url: https://gopeed.com/zh-CN
@@ -722,7 +730,11 @@
         - title: MouseGestureL.ahk
           logo: 
           url: https://hp.vector.co.jp/authors/VA018351/en/mglahk.html
-          description: 日本软件，2022停更
+          description: 日本软件
+        - title: Mouse actions
+          logo: 
+          url: https://github.com/jersou/mouse-actions
+          description: 鼠标手势，添加触发角、磨擦边
         - title: 
           logo: 
           url: 
