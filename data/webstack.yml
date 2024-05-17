@@ -496,6 +496,10 @@
           logo:  
           url: https://github.com/lstprjct/IDM-Activation-Script
           description: 6k star,IDM激活和跟踪重置脚本，一行代码激活IDM
+        - title: XIU2/TrackersListCollection
+          logo: 
+          url: https://trackerslist.com/#/zh
+          description: 23.4k star, 每天更新！全网热门 BT Tracker 列表！ 
         - title: Gopeed
           logo: 
           url: https://gopeed.com/zh-CN
@@ -540,10 +544,10 @@
           logo: 
           url: https://www.qbittorrent.org/
           description: 开源，轻量级BitTorrent客户端
-        - title: qBittorrent Enhanced
+        - title: qBittorrent-Enhanced-Edition 
           logo: 
           url: https://github.com/c0re100/qBittorrent-Enhanced-Edition
-          description: 16.5K star,qBittorrent 增强版
+          description: 17.2K star,qBittorrent 增强版
         - title: LIII BitTorrent 
           logo: 
           url: https://codecpack.co/download/LIII-BitTorrent-Client.html
@@ -552,10 +556,6 @@
           logo: 
           url: https://webtorrent.io/
           description: 28.8k star,适用于 Web 的流式传输 torrent 客户端,边下边播
-        - title: 
-          logo: 
-          url: 
-          description: 
         - title: Qdown
           logo: 
           url: http://lightzhan.xyz/index.php/qdown/
@@ -798,6 +798,10 @@
           logo: 
           url: https://github.com/aardio/ImTip?tab=readme-ov-file
           description: 1.1k star,通用输入法状态跟踪提示 
+        - title: Perfmonbar
+          logo: 
+          url: https://xhmikosr.github.io/perfmonbar/
+          description: 在 Windows 任务栏上显示性能计数器
         - title: Wifinian
           logo: 
           url: https://github.com/emoacht/Wifinian
