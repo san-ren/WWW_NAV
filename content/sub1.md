@@ -117,6 +117,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/crow-translate/crow-translate
       description: 开源，翻译，可调用Google,YandexandBingtranslateAPI
+    - title: Pot
+      logo: 
+      url: https://pot-app.com/
+      description: 8.8k star, 跨平台划词翻译和OCR
     - title: 团子翻译器
       logo: 
       url: https://github.com/PantsuDango/Dango-Translator/releases/tag/Ver3.4
