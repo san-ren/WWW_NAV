@@ -688,9 +688,9 @@
           logo: 
           url: https://www.ntrun.com/index.html
           description: 快速启动工具
-        - title: Maya
+        - title: Maye (Maya)/Maye Lite
           logo: 
-          url: https://github.com/25H/Maya
+          url: https://t.arae.cc/category/%e4%bd%9c%e5%93%81/
           description: 快速启动
         - title: Lucy
           logo: 
@@ -862,6 +862,14 @@
           logo: 
           url: https://www.startmenux.com/zh-cn/
           description: 免费版，开始菜单win7
+        - title: Windhawk
+          logo: 
+          url: https://windhawk.net/
+          description: 安装模块自定义
+        - title: 枫の主题社 ★ 二次元技术研究社区~
+          logo: 
+          url: https://winmoes.com/
+          description: 
         - title: WindowTabs
           logo: 
           url: https://github.com/mauricef/WindowTabs
