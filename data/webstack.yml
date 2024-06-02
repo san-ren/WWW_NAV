@@ -449,22 +449,6 @@
 
     - term: 网盘
       links:
-        - title: 就是加速
-          logo: 
-          url: https://api.94speed.com/
-          description: 度盘加速
-        - title: 小白羊网盘
-          logo: 
-          url: https://github.com/gaozhangmin/aliyunpan
-          description: 
-        - title: 蜗牛云盘
-          logo: 
-          url: https://snail8.cn/html/index.html
-          description: 阿里云盘第三方
-        - title: Raptor
-          logo:
-          url: https://github.com/InfpHub/Raptor
-          description: 第三方阿里云盘桌面应用客户端
         - title: PikPak
           logo: 
           url: https://mypikpak.com/zh-CN
@@ -485,6 +469,30 @@
           logo: 
           url: https://alist.nn.ci/zh/
           description: 38k star,  一个支持多存储的文件列表/WebDAV程序
+        - title: 就是加速
+          logo: 
+          url: https://api.94speed.com/
+          description: 度盘加速
+        - title: 小白羊网盘
+          logo: 
+          url: https://github.com/gaozhangmin/aliyunpan
+          description: 
+        - title: 蜗牛云盘
+          logo: 
+          url: https://snail8.cn/html/index.html
+          description: 阿里云盘第三方
+        - title: Raptor
+          logo:
+          url: https://github.com/InfpHub/Raptor
+          description: 第三方阿里云盘桌面应用客户端
+        - title: 小白云盘
+          logo: 
+          url: https://crazynoby.github.io/
+          description: 阿里云盘Android、PC端
+        - title: 小白云盘
+          logo: 
+          url: http://159.75.208.47/#
+          description: 阿里云盘第三方
 
     - term: 一般下载
       links:
