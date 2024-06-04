@@ -136,7 +136,7 @@ footer.main-footer:after{clear:both}
 .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle{float:right}
 .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a{position:relative;display:inline-block;color:#979898;line-height:1;margin-left:20px}
 .page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a i{line-height:1;font-size:20px;position:relative;top:10px}
-.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:hover,.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:active,.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:focus{color:#fff}
+.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:hover,.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:active,.page-container .sidebar-menu .sidebar-menu-inner .logo-env .mobile-menu-toggle a:focus{color:#1e4db38f}
 .page-container .sidebar-menu .sidebar-menu-inner .main-menu{display:none}
 .page-container .sidebar-menu .sidebar-menu-inner .main-menu.mobile-is-visible{display:block}
 .page-container .sidebar-menu .sidebar-menu-inner .main-menu.mobile-is-visible.both-menus-visible{margin-top:0;padding-top:0}
