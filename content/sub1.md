@@ -583,10 +583,18 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.todesk.com/download.html
       description: 
-    - title: RustDesk 
+    - title: 爱思远控
       logo: 
-      url: https://rustdesk.com/zh/
-      description: 61k star,自建服务器
+      url: https://www.i4.cn/pro_remote.html
+      description: 
+    - title: 网易UU远程
+      logo: 
+      url: https://yc.uu.163.com/
+      description: 
+    - title: 连连控
+      logo: 
+      url: https://www.asklink.com/
+      description: 
     - title: HiPC移动助手
       logo: 
       url: https://hipc.cn/
@@ -599,14 +607,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/codext-remotecontrol/remotecontrol-desktop
       description: 远程控制
-    - title: 爱思远控
+    - title: RustDesk 
       logo: 
-      url: https://www.i4.cn/pro_remote.html
-      description: 
-    - title: 网易UU远程
-      logo: 
-      url: https://yc.uu.163.com/
-      description: 
+      url: https://rustdesk.com/zh/
+      description: 61k star,自建服务器
 
 
 
