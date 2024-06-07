@@ -618,11 +618,11 @@ data: #以下为导航链接内容
     - title: AnyDesk 
       logo: 
       url: https://anydesk.com/zhs
-      description:免费版
+      description: 免费版
     - title: AirDroid Remote Support
       logo: 
       url: https://www.airdroid.cn/pricing/remote-support/
-      description:免费版
+      description: 免费版
     - title: scrcpy
       logo: 
       url: https://github.com/Genymobile/scrcpy
