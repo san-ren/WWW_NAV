@@ -257,14 +257,18 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/massgravel/Microsoft-Activation-Scripts?tab=readme-ov-file
       description: 67.4k star,windows和office激活
+    - title: HEU_KMS_Activator
+      logo: 
+      url: https://github.com/zbezj/HEU_KMS_Activator
+      description: 26.1K star
     - title: KMS_VL_ALL_AIO
       logo: 
       url: https://github.com/abbodi1406/KMS_VL_ALL_AIO
       description: 7.6k star,智能激活脚本
-    - title: 
+    - title: 云萌 Windows 10 激活工具
       logo: 
-      url: 
-      description: 
+      url: https://ac.dopp.top/
+      description: 14.3k star，GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具
     - title: HelloWindows
       logo: 
       url: https://hellowindows.cn/
@@ -426,6 +430,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://kdeconnect.kde.org/
       description: 免费无广，支持中文
+    - title: Photon
+      logo: 
+      url: https://photondev.netlify.app/
+      description: 
     - title: 百灵快传(B0Pass)
       logo: 
       url: https://github.com/bitepeng/b0pass
@@ -504,6 +512,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/Chuyu-Team/Dism-Multi-language
       description: 经典强大工具
+    - title: 软媒魔方
+      logo: 
+      url: https://mofang.ruanmei.com/
+      description: 
     - title: 云图工具箱
       logo: 
       url: https://wintool.cc/
@@ -572,6 +584,10 @@ data: #以下为导航链接内容
       logo: 
       url: http://www.dayanzai.me/fixwin-11.html
       description: win11/10修复
+    - title: Glary Utilities
+      logo: 
+      url: https://www.glarysoft.com/
+      description: 管家类软件
 
 
 
@@ -595,6 +611,22 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.asklink.com/
       description: 
+    - title: UltraViewer
+      logo: 
+      url: https://www.ultraviewer.net/cn/
+      description:
+    - title: AnyDesk 
+      logo: 
+      url: https://anydesk.com/zhs
+      description:免费版
+    - title: AirDroid Remote Support
+      logo: 
+      url: https://www.airdroid.cn/pricing/remote-support/
+      description:免费版
+    - title: scrcpy
+      logo: 
+      url: https://github.com/Genymobile/scrcpy
+      description:104k star,显示和控制您的 Android 设备
     - title: HiPC移动助手
       logo: 
       url: https://hipc.cn/
