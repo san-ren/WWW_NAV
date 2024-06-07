@@ -688,10 +688,10 @@
           logo: 
           url: https://www.flowlauncher.com/
           description: 6k star,
-        - title: 
+        - title:  rubick
           logo: 
-          url: 
-          description: 
+          url: https://rubickcenter.github.io/docs/guide/
+          description: 7.5k star, 基于 electron 的开源工具箱，自由集成丰富插件。 
         - title: Wox
           logo: 
           url: http://www.wox.one/
@@ -724,6 +724,10 @@
           logo: 
           url: https://www.listary.com/
           description: 免费版
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 鼠标手势
       links: 
