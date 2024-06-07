@@ -626,7 +626,7 @@ data: #以下为导航链接内容
     - title: scrcpy
       logo: 
       url: https://github.com/Genymobile/scrcpy
-      description:104k star,显示和控制您的 Android 设备
+      description: 104k star,显示和控制您的 Android 设备
     - title: HiPC移动助手
       logo: 
       url: https://hipc.cn/
