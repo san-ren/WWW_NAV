@@ -20,6 +20,10 @@ data: #以下为导航链接内容
       logo:
       url: https://www.hibitsoft.ir/
       description: 免费，单文件,软件卸载,支持中文
+    - title: Uninstalr
+      logo: 
+      url: https://uninstalr.com/
+      description: 便携版，支持简中，可分析软件数据
     - title: 水豚鼠标助手
       logo: 
       url: https://shuitunapp.com/
