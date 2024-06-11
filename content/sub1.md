@@ -141,6 +141,11 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/zyddnys/manga-image-translator
       description: 4.3k star，一键翻译各类图片内文字 
+    - title: TTime
+      logo: 
+      url: https://ttime.timerecord.cn/
+      description: 2.3k star, AI翻译、文字识别软件，输入、截图、划词、替换、文字识别翻译AI软件
+
 
 
 
