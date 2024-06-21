@@ -642,6 +642,10 @@
   list: 
     - term: 剪贴板
       links: 
+        - title: 柠檬Push
+          logo: 
+          url: https://sibtools.app/lemon_push/
+          description: 同网络，手机剪切板同步到电脑，链接自动打开
         - title: Ditto
           logo: 
           url: https://ditto-cp.sourceforge.io/index.php
@@ -657,7 +661,7 @@
         - title: CopyQ
           logo: 
           url: https://hluk.github.io/CopyQ/
-          description: 剪贴板增强
+          description: 8.1k star, 剪贴板增强
         - title: CC助手
           logo: 
           url: https://ccyixia.com/
