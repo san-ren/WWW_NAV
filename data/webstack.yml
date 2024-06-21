@@ -778,9 +778,13 @@
 
     - term: 模拟器、虚拟机
       links: 
+        - title: VMware Workstation 17.5.0 Pro
+          logo: 
+          url: https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/workstation-pro/workstation-pro-evaluation.html.html.html
+          description: 2024年5月起，个人用户免费
         - title: 雷神模拟器
           logo: 
-          url: http://www.lsplayer.com/#/
+          url: http://www.lsplayer.com
           description: 安卓模拟器
         - title: BlueSracks
           logo: 
@@ -789,10 +793,6 @@
         - title: VirtualBox 7.0
           logo: 
           url: https://www.virtualbox.org/
-          description: 
-        - title: VMware Workstation 17.5.0 Pro
-          logo: 
-          url: https://customerconnect.vmware.com/downloads/info/slug/desktop_end_user_computing/vmware_workstation_pro/17_0
           description: 
         - title: VMware Workstation 17.5.0 Pro
           logo: 
