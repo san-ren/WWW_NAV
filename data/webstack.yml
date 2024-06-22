@@ -878,6 +878,10 @@
           logo: 
           url: https://www.startmenux.com/zh-cn/
           description: 免费版，开始菜单win7
+        - title: OFGB 
+          logo: 
+          url: https://github.com/zetaloop/OFGB
+          description: 广告滚蛋 - 删除 Win11 各处广告的小工具 
         - title: Windhawk
           logo: 
           url: https://windhawk.net/
@@ -941,8 +945,8 @@
           logo: 
           url: https://www.rainmeter.net/
           description: 桌面美化工具，添加挂件
-
-          
+     
+    
 
 - taxonomy: 日常
   icon: fa-regular fa-newspaper
