@@ -68,6 +68,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.52pojie.cn/thread-1900867-1-1.html
       description: 集成了自动任务、系统工具、文件工具、PDF工具、OCR图文识别、文字处理、电子表格七个模块30余项实用功能。
+    - title: GitHub 中文化插件
+      logo: 
+      url: https://maboloshi.github.io/github-chinese/
+      description: 4k star
     - title: 
       logo: 
       url: 
