@@ -393,34 +393,27 @@
 
     - term: 录屏、GIF
       links: 
-        - title: ScreenToGif
-          logo: 
-          url: https://www.screentogif.com/?l=zh_cn#
-          description: 开源，商店版
-        - title: Gifcam
-          logo: 
-          url: http://blog.bahraniapps.com/gifcam/
-          description: GIF录制编辑软件
         - title: EV录屏
           logo: 
           url: https://www.ieway.cn/evcapture.html
           description: 
-        - title: Video to GIF
-          logo: 
-          url: https://lyonbot.github.io/video-to-gif/
-          description: 在线，使用 WebCodec 解码视频
         - title: Cap
           logo: 
           url: https://cap.so/
           description: 3.3k star，分lite和pro版本，lite免费
+        - title: Video to GIF
+          logo: 
+          url: https://lyonbot.github.io/video-to-gif/
+          description: 在线，使用 WebCodec 解码视频
+        - title: RecButton
+          logo: 
+          url: https://www.recbutton.org/
+          description: 2019停更，2024.7官网健在
         - title: Captura
           logo: 
           url: https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html
           description: 9.3k star,2018停更
-        - title: RecButton
-          logo: 
-          url: https://www.recbutton.org/
-          description: 
+        
 
       
     
