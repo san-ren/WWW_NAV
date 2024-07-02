@@ -184,10 +184,10 @@
           logo: 
           url: https://pan.xunlei.com/s/VNniL144qUd9zSr5Bh9vXJf7A1?pwd=9y8d#
           description: 无广，公众号“安卓聚玩”，小程序“聚玩工具箱”
-        - title: 简乐
+        - title: Music Player
           logo: 
-          url: https://www.magicalapk.com/appview?id=1708796003760
-          description: 无广，
+          url: https://github.com/FossifyOrg/Music-Player
+          description: 音乐播放器
         - title: 音乐搜索
           logo: 
           url: 音乐时刻
