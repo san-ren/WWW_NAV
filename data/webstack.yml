@@ -391,28 +391,61 @@
           url: https://www.123pan.com/s/h6nrVv-Dxmrv.html
           description: 付费（替换文件），视频工具、音频工具、图片工具、水印工具、字幕工具
 
-    - term: 录屏、GIF
+    - term: GIF、录屏、屏幕演示
       links: 
-        - title: EV录屏
+        - title: Gif123 
           logo: 
-          url: https://www.ieway.cn/evcapture.html
-          description: 
-        - title: Cap
-          logo: 
-          url: https://cap.so/
-          description: 3.3k star，分lite和pro版本，lite免费
+          url: https://gif123.aardio.com/
+          description: 极简GIF 录屏工具
         - title: Video to GIF
           logo: 
           url: https://lyonbot.github.io/video-to-gif/
           description: 在线，使用 WebCodec 解码视频
+        - title: RecordScreen.io
+          logo: 
+          url: https://recordscreen.io/
+          description: 传统在线录屏，英文界面，头像画中画，可选屏幕或窗口，直接下载webm文件，大陆可访问
+        - title: Screenity
+          logo: 
+          url: https://screenity.io/en/
+          description: 11k star, Chrome/Edge，屏幕录制和标注工具，捕捉、标注、缩放、模糊、编辑视频等功能 - 无需登录
+        - title: 水豚鼠标助手
+          logo: 
+          url: https://shuitunapp.com/
+          description: 鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时
+功能强大的屏幕演示工具
+        - title: ZoomIt
+          logo: 
+          url: https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit
+          description: 微软出品，丰富的屏幕演示、简陋的录屏
+        - title: 土豆录屏 
+          logo: 
+          url: http://www.tudouluping.com/
+          description: 免费，隐藏桌面图标和任务栏，鼠标光晕，显示键盘，增加水印
+        - title: EV录屏
+          logo: 
+          url: https://www.ieway.cn/evcapture.html
+          description: 免费版只有单纯的录屏功能
+        - title: Cap
+          logo: 
+          url: https://cap.so/
+          description: 3.4k star，录屏，lite版免费
+        - title: OBS工作室版
+          logo: 
+          url: https://obsproject.com/zh-cn
+          description: 57k star， 视频录制、直播串流
+        - title: CamStudio
+          logo: 
+          url: https://camstudio.org/
+          description: 录屏
         - title: RecButton
           logo: 
           url: https://www.recbutton.org/
-          description: 2019停更，2024.7官网健在
+          description: 录屏，2019停更，2024.7官网健在
         - title: Captura
           logo: 
-          url: https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html
-          description: 9.3k star,2018停更
+          url: https://github.com/MathewSachin/Captura
+          description: 9.5k star,2018停更，2023归档，作品被盗取贩卖
         
 
       
