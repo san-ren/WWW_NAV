@@ -283,6 +283,10 @@
           logo: 
           url: https://interversehq.com/qview/
           description: 1.7k star，看图
+        - title: Masonry Image Viewer
+          logo: 
+          url: https://github.com/wlm3201/Masonry_Image_Viewer
+          description: 瀑布流本地图片浏览器
         - title: 全屏看图
           logo: 
           url: http://www.o345.com/gengxin-log/632.html
@@ -311,6 +315,10 @@
           logo: 
           url: https://github.com/xushengfeng/eSearch
           description: 2.8k star,长截屏、离线OCR、搜索翻译、贴图、录屏
+        - title: ScreenCapture
+          logo: 
+          url: https://github.com/xland/ScreenCapture
+          description: 截图，标注丰富
         - title: pear-rec
           logo: 
           url: https://027xiguapi.github.io/pear-rec/
@@ -413,6 +421,10 @@
           logo: 
           url: https://shuitunapp.com/
           description: 鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时，功能强大的屏幕演示工具
+        - title: 智绘教Inkeys/IDT
+          logo: 
+          url: https://www.inkeys.top/
+          description: Windows 屏幕批注工具，拥有高效批注和丰富功能，让屏幕演示变得简单，让教学授课变得高效，适用于触摸设备和PC端。
         - title: ZoomIt
           logo: 
           url: https://learn.microsoft.com/zh-cn/sysinternals/downloads/zoomit
@@ -931,6 +943,10 @@
           logo: 
           url: https://github.com/zetaloop/OFGB
           description: 广告滚蛋 - 删除 Win11 各处广告的小工具 
+        - title: Cairo Desktop Environment
+          logo: 
+          url: https://cairodesktop.com/
+          description: 2.5k star, win11桌面启动器
         - title: Windhawk
           logo: 
           url: https://windhawk.net/
