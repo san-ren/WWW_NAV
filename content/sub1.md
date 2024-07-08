@@ -95,6 +95,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/tech-shrimp/WechatMoments
       description: WX 朋友圈导出为 HTML 
+    - title: wechatDownload/微信公众号文章批量下载工具
+      logo: 
+      url: https://github.com/qiye45/wechatDownload
+      description: 2.5k star, 微信公众号文章批量下载工具，支持图片、评论下载，支持保存html/md/pdf/docx文件 
     - title: WeChat2PDF
       logo: 
       url: https://www.wechat2pdf.com/
