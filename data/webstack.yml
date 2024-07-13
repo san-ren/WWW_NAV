@@ -97,10 +97,10 @@
           logo: 
           url: https://github.com/Super-Badmen-Viper/NSMusicS
           description: 
-        - title: 
+        - title: mp3tag-douban-id3-plugins
           logo: 
-          url: 
-          description: 
+          url: https://github.com/yoyicue/mp3tag-douban-id3-plugins
+          description: Mp3tag 豆瓣音乐 id3 插件 v2.5 （2020年10月可用） 
         - title: 音乐标签
           logo: 
           url: https://www.cnblogs.com/vinlxc/p/11347744.html
