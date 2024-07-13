@@ -249,7 +249,7 @@
           url: 
           description: 
 
-    - term: 图片
+    - term: 看图、截图
       links: 
         - title: Honeyview-蜂蜜浏览器
           logo: 
@@ -327,6 +327,37 @@
           logo: 
           url: https://github.com/tylearymf/SETUNA2
           description: 截图小工具（支持高分屏截图），个人接管
+        - title: Sniptool
+          logo: 
+          url: https://www.reasyze.com/Sniptool/
+          description: 便携，截图
+        - title: verycapture
+          logo: 
+          url: https://verycapture.com/cn/index.html
+          description: 付费，老牌软件，长截图、OCR、录屏，可去portableapps.com或portablefreeware.com下载便携版
+        - title: AutoScreenShot
+          logo: 
+          url: https://github.com/artem78/AutoScreenshot
+          description: 开源自动定时屏幕截图
+
+    - term: 图片处理
+      links: 
+        - title: PictureCleaner
+          logo: 
+          url: https://www.52pojie.cn/thread-1385732-1-1.html
+          description: 图像去灰度漂白校正工具，图片预处理（七种）、漂白图片（三个算法）、四角透视校正图片（规格化A4、A5输出）、边缘裁切（可保留裁切部分为白边）、单位标尺（像素、毫米）、背景换色（可去除水印）、灰度增强、去除麻点、透明保存等功能
+        - title: PM lite/图片魔法师
+          logo: 
+          url: https://www.52pojie.cn/thread-1880475-1-1.html
+          description: 图像漂白、校正，无损优化图像文件
+        - title: 
+          logo: 
+          url: 
+          description:
+        - title: Img Toolbox
+          logo: 
+          url: https://github.com/LokerL/img-toolbox
+          description: 漂白去底，图像旋转，彩色转灰色，文本图片的自动倾斜纠正，透视校正及矩形裁剪，橡皮擦，排版，打印，预设参数等
         - title: Pretty Snap
           logo: 
           url: https://pretty-snap.iwhy.dev
@@ -359,14 +390,6 @@
           logo: 
           url: https://imagetoolkit.potatofield.cn/
           description: 图像工具箱
-        - title: Sniptool
-          logo: 
-          url: https://www.reasyze.com/Sniptool/
-          description: 便携，截图
-        - title: verycapture
-          logo: 
-          url: https://verycapture.com/cn/index.html
-          description: 付费，老牌软件，长截图、OCR、录屏，可去portableapps.com或portablefreeware.com下载便携版
         - title: IOPaint
           logo:
           url: https://www.iopaint.com/
@@ -375,10 +398,18 @@
           logo:
           url: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama
           description: 去除图片水印
-        - title: AutoScreenShot
+        - title: Topaz Gigapixel AI 7.2.1(人工智能图片无损放大)简体中文汉化版 
           logo: 
-          url: https://github.com/artem78/AutoScreenshot
-          description: 开源自动定时屏幕截图
+          url: https://www.52pojie.cn/thread-1884191-1-1.html
+          description: 
+        - title: Topaz Photo AI 3.1.1（人工智能图片降噪软件）简体中文汉化版
+          logo: 
+          url: https://www.52pojie.cn/thread-1888246-1-1.html
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
           
     - term: 视频编辑
       links: 
@@ -545,6 +576,10 @@
           logo: 
           url: https://github.com/nilaoda/N_m3u8DL-RE
           description: 跨平台的DASH/HLS/MSS下载工具。支持点播、直播(DASH/HLS)。N_m3u8DL-CLI的迭代，
+        - title: M3u8Downloader_H
+          logo: 
+          url: https://github.com/Harlan-H/M3u8Downloader_H
+          description: [.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件 
         - title: Arrow Downloader
           logo: 
           url: https://www.arrow-dl.com/
@@ -557,6 +592,14 @@
           logo: 
           url: https://github.com/KurtBestor/Hitomi-Downloader
           description: 19.2k star,网页下载
+        - title: 侠客短视频解析去水印
+          logo: 
+          url: https://www.52pojie.cn/thread-1933305-1-2.html
+          description: 侠客短视频解析去水印工具-支持国内外众多短视频平台
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: WebTorrent
           logo: 
           url: https://webtorrent.io/
