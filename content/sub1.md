@@ -87,6 +87,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/huiyadanli/RevokeMsgPatcher
       description: 微信/QQ/TIM防撤回补丁
+    - title: PC微信遮挡工具
+      logo: 
+      url: https://www.52pojie.cn/thread-1839526-1-1.html
+      description: 半透明窗口遮挡微信窗口
     - title: CleanMyWechat
       logo: 
       url: https://github.com/blackboxo/CleanMyWechat
@@ -115,6 +119,18 @@ data: #以下为导航链接内容
       logo: 
       url: https://rememberber.github.io/WePush/
       description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
 
 
 
