@@ -173,6 +173,18 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/PaddlePaddle/PaddleOCR
       description: 
+    - title: Umi-OCR
+      logo: 
+      url: https://github.com/hiroi-sora/Umi-OCR
+      description: 23K star，离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
     - title: 
       logo: 
       url: 
@@ -416,6 +428,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://abc100.net/106/
       description: 批量文件重命名工具
+    - title: 文件批量改名工具
+      logo: 
+      url: https://www.52pojie.cn/thread-1815735-1-1.html
+      description: 文件批量改名工具-自由度更高 支持撤销改名
+    - title: 文件批量重命名
+      logo: 
+      url: https://www.52pojie.cn/thread-1941574-1-3.html
+      description: 今天需要对一个文件夹里的大量文件进行重命名，尤其有时需要替换特定的字符串，手动操作比较麻烦。有了需求就有回应，写的比较比较匆忙，很粗糙，各位凑活着用。
     - title: Hummingbird
       logo: 
       url: https://arayofsunshine.dev/hummingbird
