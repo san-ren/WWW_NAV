@@ -406,6 +406,10 @@
           logo: 
           url: https://www.52pojie.cn/thread-1888246-1-1.html
           description: 
+        - title: 文字转LOGO图片
+          logo: 
+          url: https://www.52pojie.cn/thread-1876568-1-3.html
+          description: 文字转LOGO图片的工具，可以做图标、头像，文字转图片等
         - title: 
           logo: 
           url: 
@@ -596,10 +600,10 @@
           logo: 
           url: https://www.52pojie.cn/thread-1933305-1-2.html
           description: 侠客短视频解析去水印工具-支持国内外众多短视频平台
-        - title: 
+        - title: 大圣直播录制工具（DSLiveRec）
           logo: 
-          url: 
-          description: 
+          url: https://www.52pojie.cn/thread-1907429-1-1.html
+          description: 支持抖音和快手的直播录制
         - title: WebTorrent
           logo: 
           url: https://webtorrent.io/
@@ -746,30 +750,50 @@
   list: 
     - term: 剪贴板
       links: 
-        - title: 柠檬Push
-          logo: 
-          url: https://sibtools.app/lemon_push/
-          description: 同网络，手机剪切板同步到电脑，链接自动打开
         - title: Ditto
           logo: 
           url: https://ditto-cp.sourceforge.io/index.php
-          description: 开源，商店版、便携版
+          description: 3.3k star ，商店版、便携版，保存剪贴板所有记录、文件
         - title: Snatch
           logo: 
           url: https://snatch.kasper.io
-          description: ​剪贴板管理
+          description: ​剪贴板管理，无其它扩展功能，保留所有的剪贴板历史记录，快速搜索历史记录
         - title: PasteEx
           logo: 
-          url: https://github.com/huiyadanli/PasteEx/blob/master/README_CN.md
+          url: https://github.com/huiyadanli/PasteEx/tree/master
           description: 将剪切板内容存为文件
         - title: CopyQ
           logo: 
           url: https://hluk.github.io/CopyQ/
-          description: 8.1k star, 剪贴板增强
+          description: 8.1k star, 剪贴板增强，保存所有内容
+        - title: TinyCopyBoard
+          logo: 
+          url: https://github.com/AlanWanco/TinyCopyBoard
+          description: 一个迷你剪贴板实时显示悬浮窗
+        - title: EcoPaste
+          logo: 
+          url: https://github.com/ayangweb/EcoPaste
+          description: 剪切板管理
+        - title: 柠檬Push
+          logo: 
+          url: https://sibtools.app/lemon_push/
+          description: 剪贴板同步，同网络，手机剪切板同步到电脑，链接自动打开
         - title: CC助手
           logo: 
           url: https://ccyixia.com/
-          description: 复制两次，一键收藏
+          description: 复制两次，一键收藏,2024.7发现官网已挂
+        - title: DropPoint
+          logo: 
+          url: https://droppoint.netlify.app/
+          description: 拖拽文件至临时中转悬浮框，再一次性粘贴文件，不用频繁切换窗口[Win/macOS/Linux]
+        - title: StikyNotes
+          logo: 
+          url: https://github.com/li-zheng-hao/StickyNotes
+          description: 一个便捷的Windows桌面便利贴，2023.5归档
+        - title: 
+          logo: 
+          url: 
+          description: 
 
     - term: 预览
       links: 
@@ -914,6 +938,10 @@
   list:
     - term: 细节
       links:  
+        - title: RoundedTB
+          logo: 
+          url: https://github.com/RoundedTB/RoundedTB
+          description: 2.8k star ，将边距、圆角和线段添加到您的任务栏
         - title: TranslucentTB
           logo: 
           url: https://github.com/TranslucentTB/TranslucentTB
