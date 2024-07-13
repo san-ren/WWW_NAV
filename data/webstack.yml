@@ -583,7 +583,7 @@
         - title: M3u8Downloader_H
           logo: 
           url: https://github.com/Harlan-H/M3u8Downloader_H
-          description: [.net6]m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件 
+          description: m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件 
         - title: Arrow Downloader
           logo: 
           url: https://www.arrow-dl.com/
