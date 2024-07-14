@@ -797,10 +797,6 @@
           logo: 
           url: https://www.zhornsoftware.co.uk/stickies/index.html
           description: 官网下载简中语言包放到安装目录，可选字体、排版，便签设置丰富,功能需右键选择
-        - title: 便签提醒 
-          logo: 
-          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1609244&highlight=%B1%E3%C7%A9%CC%E1%D0%D1
-          description: 可选皮肤、字体、添加提醒、倒计时，无滚动条，软件链接至方方格子官网
         - title: Note+
           logo: 
           url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=590457&highlight=%B1%E3%C7%A9
@@ -825,10 +821,6 @@
           logo: 
           url: 
           description: 
-        - title: Sticky Notes | 贴纸便签
-          logo: 
-          url: https://github.com/imlinhanchao/sticky_notes
-          description: 更像是一个待办列表，置顶、半透明、鼠标穿透
         - title: 透明桌面文字便签/透明便签2.0
           logo: 
           url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1510585&highlight=%B1%E3%C7%A9
@@ -841,10 +833,18 @@
           logo: 
           url: https://vovsoft.com/
           description: 一片画布随意摆放便签，可导出图片，无任何自定义功能
+        - title: Sticky Notes | 贴纸便签
+          logo: 
+          url: https://github.com/imlinhanchao/sticky_notes
+          description: 待办列表，置顶、半透明、鼠标穿透
         - title: 小孩桌面便签
           logo: 
           url: http://www.kingsfw.com/
           description: 待办、便签，官网提供历史版本
+        - title: 便签提醒 
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1609244&highlight=%B1%E3%C7%A9%CC%E1%D0%D1
+          description: 可选皮肤、字体、添加提醒、倒计时，无滚动条，软件链接至方方格子官网
         - title: DesktopNoteOK_x64_Portable
           logo: 
           url: https://www.softwareok.com/?seite=Microsoft%2FDesktopNoteOK
