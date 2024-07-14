@@ -786,10 +786,85 @@
           logo: 
           url: https://droppoint.netlify.app/
           description: 拖拽文件至临时中转悬浮框，再一次性粘贴文件，不用频繁切换窗口[Win/macOS/Linux]
+        - title: 
+          logo: 
+          url: 
+          description: 
+
+    - term: 便签、待办
+      links: 
+        - title: 便签提醒 
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1609244&highlight=%B1%E3%C7%A9%CC%E1%D0%D1
+          description: 可选皮肤、字体、添加提醒、倒计时，无滚动条，软件链接至方方格子官网
+        - title: Note+
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=590457&highlight=%B1%E3%C7%A9
+          description: 简洁的便签，仅有几个字体选项
+        - title: vov sticky notes
+          logo: 
+          url: https://www.52pojie.cn/thread-1063151-1-1.html
+          description: 名副其实的便签，无置顶、无排版，可设字体，未注册版不能选择主题，不能备份贴纸，不能禁用更新通知，有广告
+        - title: Simple Sticky Notes
+          logo: 
+          url: https://www.simplestickynotes.com/
+          description: 功能需右键选择，自行找汉化版
+        - title: Stickies
+          logo: 
+          url: https://www.zhornsoftware.co.uk/stickies/index.html
+          description: 官网下载简中语言包放到安装目录，可选字体、排版，便签设置丰富,功能需右键选择
+        - title: 
+          logo: 
+          url: 
+          description:  
+        - title: 收集桌面便笺应用
+          logo: 
+          url: https://meta.appinn.net/t/topic/33991
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: Visual Notes
+          logo: 
+          url: https://vovsoft.com/
+          description: 一片画布随意摆放便签，可导出图片，无任何自定义功能
+        - title: Sticky Notes | 贴纸便签
+          logo: 
+          url: https://github.com/imlinhanchao/sticky_notes
+          description: 更像是一个待办列表，置顶、半透明、鼠标穿透
+        - title: 透明桌面文字便签/透明便签2.0
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1510585&highlight=%B1%E3%C7%A9
+          description: 背景透明，可选字体、字号、颜色，无任务栏图标，适合当桌面背景
+        - title: 桌面添加透明文字v1.1
+          logo: 
+          url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1175930&highlight=%B1%E3%C7%A9
+          description: 背景透明，可显示时间或倒计时，可选字体颜色、大小，简陋
+        - title: 小孩桌面便签
+          logo: 
+          url: http://www.kingsfw.com/
+          description: 待办、便签，官网提供历史版本
+        - title: DesktopNoteOK_x64_Portable
+          logo: 
+          url: https://www.softwareok.com/?seite=Microsoft%2FDesktopNoteOK
+          description: 简陋的便签，无排版功能
+        - title: 简单记
+          logo: 
+          url: https://www.52pojie.cn/home.php?mod=space&uid=870927&do=thread&type=thread&view=me&from=space
+          description: 看帖子截图挺喜欢UI,奈何作者的链接失效，网友转的旧版本也打不开
         - title: StikyNotes
           logo: 
           url: https://github.com/li-zheng-hao/StickyNotes
-          description: 一个便捷的Windows桌面便利贴，2023.5归档
+          description: 一个便捷的Windows桌面便利贴，2023.5归档，有问题极度影响使用
+        - title: hott notes
+          logo: 
+          url: https://hottnotes.com/
+          description: 不支持win11
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: 
           logo: 
           url: 
@@ -958,6 +1033,10 @@
           logo: 
           url: https://github.com/aardio/ImTip?tab=readme-ov-file
           description: 1.1k star,通用输入法状态跟踪提示 
+        - title: KBLAutoSwitch/AHK中英文输入法自动切换
+          logo: 
+          url: https://github.com/flyinclouds/KBLAutoSwitch
+          description: AHK自动切换中英文输入法，输入法，自动切换 ，2022.9停更
         - title: Perfmonbar
           logo: 
           url: https://xhmikosr.github.io/perfmonbar/
