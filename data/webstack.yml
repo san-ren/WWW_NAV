@@ -793,6 +793,10 @@
 
     - term: 便签、待办
       links: 
+        - title: Stickies
+          logo: 
+          url: https://www.zhornsoftware.co.uk/stickies/index.html
+          description: 官网下载简中语言包放到安装目录，可选字体、排版，便签设置丰富,功能需右键选择
         - title: 便签提醒 
           logo: 
           url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1609244&highlight=%B1%E3%C7%A9%CC%E1%D0%D1
@@ -809,14 +813,6 @@
           logo: 
           url: https://www.simplestickynotes.com/
           description: 功能需右键选择，自行找汉化版
-        - title: Stickies
-          logo: 
-          url: https://www.zhornsoftware.co.uk/stickies/index.html
-          description: 官网下载简中语言包放到安装目录，可选字体、排版，便签设置丰富,功能需右键选择
-        - title: 
-          logo: 
-          url: 
-          description:  
         - title: 收集桌面便笺应用
           logo: 
           url: https://meta.appinn.net/t/topic/33991
@@ -825,10 +821,10 @@
           logo: 
           url: 
           description: 
-        - title: Visual Notes
+        - title: 
           logo: 
-          url: https://vovsoft.com/
-          description: 一片画布随意摆放便签，可导出图片，无任何自定义功能
+          url: 
+          description: 
         - title: Sticky Notes | 贴纸便签
           logo: 
           url: https://github.com/imlinhanchao/sticky_notes
@@ -841,6 +837,10 @@
           logo: 
           url: https://www.52pojie.cn/forum.php?mod=viewthread&tid=1175930&highlight=%B1%E3%C7%A9
           description: 背景透明，可显示时间或倒计时，可选字体颜色、大小，简陋
+        - title: Visual Notes
+          logo: 
+          url: https://vovsoft.com/
+          description: 一片画布随意摆放便签，可导出图片，无任何自定义功能
         - title: 小孩桌面便签
           logo: 
           url: http://www.kingsfw.com/
