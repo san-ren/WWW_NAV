@@ -412,10 +412,6 @@ data: #以下为导航链接内容
       logo: 
       url: http://www.dropitproject.com/
       description: 自定义文件分类
-    - title: TablacusExplorer
-      logo: 
-      url: https://tablacus.github.io/explorer_en.html
-      description: 文件管理器
     - title: DeskGo（桌面整理）
       logo: 
       url: https://guanjia.qq.com/product/zmzl/
@@ -424,10 +420,38 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.coodesker.com
       description: 
+    - title: 
+      logo: 
+      url: https://files.community/
+      description: 33k star，与微软相似
+    - title: OneCommander
+      logo: 
+      url: https://www.onecommander.com/
+      description: 
+    - title: 极客多标签文件管理器
+      logo: 
+      url: http://www.51buydd.com/ExplorerX/
+      description: 
+    - title: Tablacus Explorer
+      logo: 
+      url: https://tablacus.github.io/explorer_en.html
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: TablacusExplorer
+      logo: 
+      url: https://tablacus.github.io/explorer_en.html
+      description: 文件管理器
     - title: Q-dir
       logo: 
-      url: https://www.softwareok.eu/
-      description: 文件管理器，默认四个小窗口组成一个大窗口
+      url: http://q-dir.com/
+      description: 文件管理器，支持简中，默认四个小窗口组成一个大窗口
     - title: 文件名精灵
       logo: 
       url: https://www.ecdove.com/
