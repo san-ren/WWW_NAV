@@ -1029,6 +1029,18 @@
           logo: 
           url: https://github.com/rounk-ctrl/TranslucentSM
           description: 开始菜单半透明/透明
+        - title: 极客开始菜单
+          logo: 
+          url: http://www.51buydd.com/StartMenuX/
+          description: 手机桌面模式的开始菜单
+        - title: 极客桌面
+          logo: 
+          url: http://www.51buydd.com/DesktopX/
+          description: 再现MAC桌面，双模式桌面
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: ImTip
           logo: 
           url: https://github.com/aardio/ImTip?tab=readme-ov-file
@@ -1124,6 +1136,18 @@
           logo: 
           url: https://splashy.art/
           description: 自动换壁纸，壁纸源自Unsplas
+        - title: Sucrose
+          logo: 
+          url: https://github.com/Taiizor/Sucrose/tree/v24.7.13.0
+          description: 内置壁纸库，全动态壁纸
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: upupoo
           logo: 
           url: http://www.upupoo.com
