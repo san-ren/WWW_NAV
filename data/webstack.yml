@@ -141,6 +141,14 @@
           logo: 
           url: https://www.winamp.com/
           description: 老牌播放器
+        - title: Wora
+          logo: 
+          url: https://github.com/hiaaryan/wora
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: electron-vue-cloud-music
           logo: 
           url: https://github.com/xiaozhu188/electron-vue-cloud-music
