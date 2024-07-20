@@ -299,6 +299,14 @@
           logo: 
           url: http://www.o345.com/gengxin-log/632.html
           description: 流式看图
+        - title: NeeView
+          logo: 
+          url: https://github.com/karma-sun/neeview
+          description: 图片漫画浏览器
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: PixPin
           logo: 
           url: https://pixpinapp.com/
@@ -358,10 +366,10 @@
           logo: 
           url: https://www.52pojie.cn/thread-1880475-1-1.html
           description: 图像漂白、校正，无损优化图像文件
-        - title: 
+        - title: Caesium Image Compressor 
           logo: 
-          url: 
-          description:
+          url: https://saerasoft.com/caesium
+          description: 3.3k star，图像压缩, 
         - title: Img Toolbox
           logo: 
           url: https://github.com/LokerL/img-toolbox
@@ -794,10 +802,10 @@
           logo: 
           url: https://droppoint.netlify.app/
           description: 拖拽文件至临时中转悬浮框，再一次性粘贴文件，不用频繁切换窗口[Win/macOS/Linux]
-        - title: 
+        - title: 剪切助手
           logo: 
-          url: 
-          description: 
+          url: https://jianqiezhushou.com/
+          description: 剪贴板同步、分享
 
     - term: 便签、待办
       links: 
