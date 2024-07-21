@@ -456,6 +456,10 @@
           logo: 
           url: https://gif123.aardio.com/
           description: 极简GIF 录屏工具
+        - title: ScreenToGif
+          logo: 
+          url: https://www.screentogif.com/
+          description: 23k star，屏幕、摄像头和画板录像，并有内置编辑器
         - title: Video to GIF
           logo: 
           url: https://lyonbot.github.io/video-to-gif/
