@@ -431,8 +431,16 @@
           url: 
           description: 
           
-    - term: 视频编辑
+    - term: 音、视频编辑
       links: 
+        - title: AutoAudioRecorder/内部万能录音器
+          logo: 
+          url: https://autoclose.net/autoaudiorecorder.html
+          description: 将电脑内部所有的声音录制成 mp3/wav ，可根据有无音源自动开启和停止录音
+        - title: 
+          logo: 
+          url: 
+          description: 
         - title: Video-subtitle-remover
           logo:
           url: https://github.com/YaoFANGUK/video-subtitle-remover
