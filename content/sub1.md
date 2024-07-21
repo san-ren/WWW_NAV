@@ -24,10 +24,6 @@ data: #以下为导航链接内容
       logo: 
       url: https://uninstalr.com/
       description: 便携版，支持简中，可分析软件数据
-    - title: 水豚鼠标助手
-      logo: 
-      url: https://shuitunapp.com/
-      description: 屏幕演示工具,鼠标换肤 | 屏幕画笔 | 放大镜 | 聚光灯 | 屏幕放大 | 倒计时
     - title: WindowTop
       logo: 
       url: https://github.com/WindowTop/WindowTop-App
