@@ -115,10 +115,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://rememberber.github.io/WePush/
       description: 3.9k star,批量推送，支持：模板消息-公众号、模板消息-小程序、微信客服消息、微信企业号/企业微信消息、阿里云短信、阿里大于模板短信 、腾讯云短信、云片网短信、E-Mail、HTTP请求、钉钉、华为云短信、百度云短信、又拍云短信、七牛云短信
-    - title: 
+    - title: 魔猫订单
       logo: 
-      url: 
-      description: 
+      url: https://order.hereserver.com/
+      description: 买家历史订单导出，包含运单号和收货信息与订单备注,淘宝京东拼多多闲鱼订单统计导出
     - title: 
       logo: 
       url: 
