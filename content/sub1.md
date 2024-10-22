@@ -377,10 +377,15 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/EasyChart/Excel-Chart-Plugin-EasyCharts
       description: 2023更新readme，插件2018停更
+    - title: OfficeAI助手
+      logo: 
+      url: https://office-ai.cn/
+      description: 
     - title: 
       logo: 
       url: 
       description: 
+
 
 
 
