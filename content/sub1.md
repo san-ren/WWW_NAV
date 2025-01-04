@@ -574,6 +574,18 @@ data: #以下为导航链接内容
 - taxonomy: Win系统管理
   icon: fa-palette 
   links:
+    - title: OFGB
+      logo: 
+      url: https://github.com/xM4ddy/OFGB
+      description: 4.4k star，关闭win11系统广告
+    - title: Baidun Armor
+      logo: 
+      url: https://www.bds007.cc/
+      description: 永远免费的流氓软件免疫小工具，一键屏蔽和免疫各种流氓软件，弹窗广告，告别电脑卡顿，还你一个纯净的Windows！
+    - title: Malware-Patch
+      logo: 
+      url: https://github.com/the1812/Malware-Patch
+      description: 阻止中国流氓软件的管理员授权
     - title: ExplorerPatcher
       logo: 
       url: https://github.com/valinet/ExplorerPatcher
@@ -626,10 +638,6 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.diskgenius.cn/
       description: 硬盘管理
-    - title: OFGB
-      logo: 
-      url: https://github.com/xM4ddy/OFGB
-      description: 4.4k star，关闭win11系统广告
     - title: Winpilot
       logo: 
       url: https://github.com/builtbybel/Winpilot
