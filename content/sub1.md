@@ -388,6 +388,35 @@ data: #以下为导航链接内容
 
 
 
+- taxonomy: 阅读器
+  icon: fa-palette 
+  links:
+    - title: Readest
+      logo: 
+      url: https://github.com/readest/readest
+      description: 
+    - title: 潮汐阅读
+      logo: 
+      url: https://tidereader.com/
+      description: 
+    - title: ReadCat
+      logo: 
+      url: https://github.com/read-cat/read-cat
+      description: 
+    - title: STRapp
+      logo: 
+      url: https://github.com/cataerogong/STRapp/
+      description: 
+    - title: Koodo Reader
+      logo: 
+      url: https://www.koodoreader.com/zh
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+
+
 
 
 - taxonomy: 文件管理
