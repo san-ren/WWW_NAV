@@ -363,6 +363,18 @@
           logo: 
           url: https://github.com/artem78/AutoScreenshot
           description: 开源自动定时屏幕截图
+        - title: PicGo
+          logo: 
+          url: https://github.com/Molunerfinn/PicGo
+          description: 24.5k star
+        - title: PicX 
+          logo: 
+          url: https://github.com/XPoet/picx
+          description: 4.7k star
+        - title: EasyImage2.0 简单图床
+          logo: 
+          url: https://github.com/icret/EasyImages2.0
+          description: 3k star
 
     - term: 图片处理
       links: 
