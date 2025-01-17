@@ -421,7 +421,7 @@ data: #以下为导航链接内容
       logo: 
       url: https://www.coodesker.com
       description: 
-    - title: 
+    - title: Files
       logo: 
       url: https://files.community/
       description: 33k star，与微软相似
@@ -485,6 +485,30 @@ data: #以下为导航链接内容
       logo: 
       url: https://file-converter.io/
       description: 文件格式转换，支持简中，
+    - title: HelpUploadFiles （星空上传助手） 
+      logo: 
+      url: https://github.com/KrxkGit/HelpUploadFiles
+      description: 
+    - title: 悬浮宇宙/FloatingUniverse
+      logo: 
+      url: https://github.com/iwxyi/FloatingUniverse
+      description: 停更了
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
 
 
 
@@ -496,7 +520,7 @@ data: #以下为导航链接内容
       logo: 
       url: https://lightningvine.zishu.life/
       description: 基于LocalSend二次开发的一款局域网文件传输工具
-    - title: HybridFileXfer/双轨快传
+    - title: HybridFileXfer/多轨快传
       logo: 
       url: https://github.com/weixiansen574/HybridFileXfer
       description: 同时使用USB和WIFI传输文件到电脑 
