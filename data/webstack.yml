@@ -1097,14 +1097,6 @@
           logo: 
           url: 
           description: 
-        - title: ImTip
-          logo: 
-          url: https://github.com/aardio/ImTip?tab=readme-ov-file
-          description: 1.1k star,通用输入法状态跟踪提示 
-        - title: KBLAutoSwitch/AHK中英文输入法自动切换
-          logo: 
-          url: https://github.com/flyinclouds/KBLAutoSwitch
-          description: AHK自动切换中英文输入法，输入法，自动切换 ，2022.9停更
         - title: Perfmonbar
           logo: 
           url: https://xhmikosr.github.io/perfmonbar/
