@@ -204,6 +204,46 @@ data: #以下为导航链接内容
 
 
 
+- taxonomy: 输入法
+  icon: fa-palette 
+  links:
+    - title: InputTip
+      logo: 
+      url: https://github.com/abgox/InputTip
+      description: 输入法状态实时提示工具
+    - title: ImTip
+      logo: 
+      url: https://github.com/aardio/ImTip?tab=readme-ov-file
+      description: 1.1k star,通用输入法状态跟踪提示 
+    - title: KBLAutoSwitch/AHK中英文输入法自动切换
+      logo: 
+      url: https://github.com/flyinclouds/KBLAutoSwitch
+      description: AHK自动切换中英文输入法，输入法，自动切换 ，2022.9停更
+    - title: Language Indicator
+      logo: 
+      url: https://github.com/yakunins/language-indicator
+      description: 语言指示符
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+
+
+
+
+
 - taxonomy: PDF
   icon: fa-palette
   links:
