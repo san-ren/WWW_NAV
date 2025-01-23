@@ -1041,6 +1041,14 @@
           logo: 
           url: https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/workstation-pro/workstation-pro-evaluation.html.html.html
           description: 2024年5月起，个人用户免费
+        - title: VMware Workstation 17.5.0 Pro
+          logo: 
+          url: https://www.ypojie.com/6066.html
+          description: 
+        - title: 兆懿移动应用运行平台
+          logo: 
+          url: https://www.wndroid.com/index
+          description: 
         - title: 雷神模拟器
           logo: 
           url: http://www.lsplayer.com
@@ -1052,10 +1060,6 @@
         - title: VirtualBox 7.0
           logo: 
           url: https://www.virtualbox.org/
-          description: 
-        - title: VMware Workstation 17.5.0 Pro
-          logo: 
-          url: https://www.ypojie.com/6066.html
           description: 
         - title: 
           logo: 
