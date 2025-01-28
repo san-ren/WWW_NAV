@@ -1121,22 +1121,6 @@
           logo: 
           url: https://modernflyouts-community.github.io/
           description: 3.4k star，基于流畅设计的开源现代控件，可替代 Windows 10 中以 Metro 为主题的旧版飞窗。
-        - title: ContextMenuManager
-          logo: 
-          url: https://bluepointlilac.github.io/ContextMenuManager/
-          description: 10.1k star,Windows右键菜单管理
-        - title: ContextMenuForWindows11
-          logo: 
-          url: https://github.com/ikas-mc/ContextMenuForWindows11
-          description: 1.5k star,为 Windows11 添加自定义上下文菜单,自行配置
-        - title: Shell
-          logo: 
-          url: https://nilesoft.org/
-          description: 2.7k star, 右键菜单管理
-        - title: SageThumbs
-          logo: 
-          url: https://www.cherubicsoft.com/en/projects/sagethumbs/
-          description: 在右键菜单预览图片
         - title: Alt-Tab Terminator
           logo: 替换系统 Alt-Tab 对话框，简洁直观
           url: https://www.ntwind.com/software/alttabter.html
@@ -1177,6 +1161,37 @@
           logo: 
           url: https://github.com/sentialx/multrin/
           description: 2.3k star,将任意窗口组合成多标签页，2021停更
+
+    - term: 右键管理
+      links: 
+        - title: ContextMenuManager
+          logo: 
+          url: https://bluepointlilac.github.io/ContextMenuManager/
+          description: 10.1k star,Windows右键菜单管理
+        - title: ContextMenuForWindows11
+          logo: 
+          url: https://github.com/ikas-mc/ContextMenuForWindows11
+          description: 1.5k star,为 Windows11 添加自定义上下文菜单,自行配置
+        - title: Shell
+          logo: 
+          url: https://nilesoft.org/
+          description: 2.7k star, 右键菜单管理
+        - title: SageThumbs
+          logo: 
+          url: https://www.cherubicsoft.com/en/projects/sagethumbs/
+          description: 在右键菜单预览图片
+        - title: FileMenu Tools
+          logo: 
+          url: https://www.lopesoft.com/index.php/en/download/filemenu-tools
+          description: 
+        - title: Right Click Enhancer
+          logo: 
+          url: https://rbsoft.org/downloads/right-click-enhancer/
+          description: 用户名：脚本之家，序列号：JKBUI-PFCZU-PHQGE-FJFPT；用户名：www.jb51.net，序列号：IQRLA-RLAZN-CDMEP-FCHSJ
+        - title: Easy Context Menu
+          logo: 
+          url: https://www.sordum.org/7615/easy-context-menu-v1-6/
+          description: 
 
     - term: 壁纸
       links: 
