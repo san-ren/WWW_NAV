@@ -752,6 +752,10 @@
           logo: 
           url: https://github.com/subhra74/xdm
           description: 支持浏览器扩展
+        - title: AB Download Manager
+          logo:
+          url: https://abdownloadmanager.com/
+          description: 
 
     - term: 下载-Android
       links:
