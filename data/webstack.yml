@@ -1183,7 +1183,7 @@
         - title: FileMenu Tools
           logo: 
           url: https://www.lopesoft.com/index.php/en/download/filemenu-tools
-          description: 
+          description: 在右键菜单添加一个文件夹，内含众多功能
         - title: Right Click Enhancer
           logo: 
           url: https://rbsoft.org/downloads/right-click-enhancer/
@@ -1191,6 +1191,18 @@
         - title: Easy Context Menu
           logo: 
           url: https://www.sordum.org/7615/easy-context-menu-v1-6/
+          description: 
+        - title: ShellExView
+          logo: 
+          url: https://www.nirsoft.net/utils/shexview.html
+          description: 
+        - title: 
+          logo: 
+          url: 
+          description: 
+        - title: 
+          logo: 
+          url: 
           description: 
 
     - term: 壁纸
