@@ -1043,32 +1043,36 @@
       links: 
         - title: VMware Workstation 17.5.0 Pro
           logo: 
-          url: https://www.vmware.com/content/vmware/vmware-published-sites/cn/products/workstation-pro/workstation-pro-evaluation.html.html.html
+          url: https://softwareupdate.vmware.com/cds/vmw-desktop/ws/
           description: 2024年5月起，个人用户免费
         - title: VMware Workstation 17.5.0 Pro
           logo: 
           url: https://www.ypojie.com/6066.html
           description: 
-        - title: 兆懿移动应用运行平台
-          logo: 
-          url: https://www.wndroid.com/index
-          description: 
-        - title: 雷神模拟器
-          logo: 
-          url: http://www.lsplayer.com
-          description: 安卓模拟器
-        - title: BlueSracks
-          logo: 
-          url: https://www.bluestacks.com/bluestacks-5.html
-          description: 安卓模拟器
         - title: VirtualBox 7.0
           logo: 
           url: https://www.virtualbox.org/
           description: 
-        - title: 
+        - title: Windows Subsystem for Android (WSA)
           logo: 
-          url: 
-          description: 
+          url: https://blog.csdn.net/mrathena/article/details/140092233
+          description: 微软商店有WSA工具箱
+        - title: 兆懿移动应用运行平台
+          logo: 
+          url: https://www.wndroid.com/index
+          description: 安卓12、安卓5
+        - title: BlueStacks蓝叠模拟器
+          logo: 
+          url: https://www.bluestacks.com/bluestacks-5.html
+          description: 安卓模拟器鼻祖
+        - title: 夜神模拟器
+          logo: 
+          url: https://www.yeshen.com/
+          description: 安卓9、安卓12
+        - title: 雷神模拟器
+          logo: 
+          url: http://www.lsplayer.com
+          description: 安卓模拟器
        
        
 
