@@ -1053,10 +1053,10 @@
           logo: 
           url: https://www.virtualbox.org/
           description: 
-        - title: Windows Subsystem for Android (WSA)
+        - title: WSA (Windows Subsystem for Android)
           logo: 
           url: https://blog.csdn.net/mrathena/article/details/140092233
-          description: 微软商店有WSA工具箱
+          description: ![stars](https://img.shields.io/github/stars/2noise/ChatTTS)微软商店有WSA工具箱
         - title: 兆懿移动应用运行平台
           logo: 
           url: https://www.wndroid.com/index
