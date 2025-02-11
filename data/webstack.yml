@@ -1172,6 +1172,10 @@
 
     - term: 右键管理
       links: 
+        - title: Windows 11 Classic Context Menu v1.2
+          logo: 
+          url: https://www.sordum.org/14479/windows-11-classic-context-menu-v1-2/
+          description: 随时在新旧右键菜单切换，带中文界面
         - title: ContextMenuManager
           logo: 
           url: https://bluepointlilac.github.io/ContextMenuManager/
