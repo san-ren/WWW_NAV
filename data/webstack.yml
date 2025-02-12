@@ -632,6 +632,10 @@
           logo: 
           url: https://github.com/Harlan-H/M3u8Downloader_H
           description: m3u8下载器,功能强大,多线程,多任务,支持aes-128-cbc解密,自定义请求头,自定义插件 
+        - title: Fluent-M3U8
+          logo: 
+          url: https://github.com/zhiyiYo/Fluent-M3U8
+          description: 
         - title: Arrow Downloader
           logo: 
           url: https://www.arrow-dl.com/
@@ -1188,6 +1192,14 @@
           logo: 
           url: https://nilesoft.org/
           description: 2.7k star, 右键菜单管理
+        - title: Breeze Shell
+          logo: 
+          url: https://github.com/std-microblock/breeze-shell
+          description: 1k star，右键菜单美化加强
+        - title: TranslucentFlyouts V2
+          logo: 
+          url: https://github.com/ALTaleX531/TranslucentFlyouts
+          description:  1k star，右键菜单美化加强
         - title: SageThumbs
           logo: 
           url: https://www.cherubicsoft.com/en/projects/sagethumbs/
