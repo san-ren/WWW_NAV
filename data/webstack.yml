@@ -636,6 +636,10 @@
           logo: 
           url: https://github.com/zhiyiYo/Fluent-M3U8
           description: 
+        - title: You-Get
+          logo: 
+          url: https://github.com/soimort/you-get
+          description: 55k star
         - title: Arrow Downloader
           logo: 
           url: https://www.arrow-dl.com/
@@ -664,10 +668,10 @@
           logo: 
           url: https://docs.iyear.me/tdl/zh/
           description: 3.1k star,Telegram Downloader
-        - title: 
+        - title: YoutubeDownloader
           logo: 
-          url: 
-          description: 
+          url: https://github.com/Tyrrrz/YoutubeDownloader
+          description: 10.4 star, 下载 YouTube 视频和播放列表
         - title: 
           logo: 
           url: 
@@ -1289,6 +1293,52 @@
           description: 桌面美化工具，添加挂件
      
     
+
+
+- taxonomy: AI工具
+  icon: fa-regular fa-newspaper
+  links: 
+    - title: AI_NovelGenerator/自动小说生成工具
+      logo: 
+      url: https://github.com/YILING0013/AI_NovelGenerator
+      description: 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+    - title: 卡卡字幕助手（VideoCaptioner）
+      logo: 
+      url: https://github.com/WEIFENG2333/VideoCaptioner
+      description: 4.7k star
+    - title: PDFMathTranslate
+      logo: 
+      url: https://github.com/Byaidu/PDFMathTranslate
+      description: 1705k star ,基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+    - title: YuE
+      logo: 
+      url: https://github.com/multimodal-art-projection/YuE
+      description: 4k star, 开启全曲音乐生成基础模型，类似于 Suno.ai 但开源
+    - title: VideoLingo
+      logo: 
+      url: https://github.com/Huanshere/VideoLingo
+      description: 11.3k star, Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+    - title: screenshot-to-code
+      logo: 
+      url: https://github.com/abi/screenshot-to-code
+      description: 68.5k star, 将截图放入并转换为干净的代码（HTML/Tailwind/React/Vue）
+    - title: Ai-to-pptx
+      logo: 
+      url: https://github.com/SmartSchoolAI/ai-to-pptx
+      description: 使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 
+    - title: BallonTranslator
+      logo: 
+      url: https://github.com/dmMaze/BallonsTranslator
+      description: 3.2k star, 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑
+    - title: 
+      logo: 
+      url: 
+      description: 
+
+
+
+
+
 
 - taxonomy: 日常
   icon: fa-regular fa-newspaper
