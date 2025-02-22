@@ -943,6 +943,10 @@
           
     - term: 快捷启动
       links: 
+        - title: MousePlus
+          logo: 
+          url: https://mouseplus.cn/
+          description: 右键唤出轮盘，可执行命令、快捷启动
         - title: Flow Launcher
           logo: 
           url: https://www.flowlauncher.com/
@@ -1006,10 +1010,6 @@
           logo: 
           url: 
           description: 
-        - title: MousePlus
-          logo: 
-          url: https://mouseplus.cn/
-          description: 鼠标手势软件，内置可视化脚本编辑器，上百个脚本步骤，随意组合
         - title: MouseGestureL.ahk
           logo: 
           url: https://hp.vector.co.jp/authors/VA018351/en/mglahk.html
