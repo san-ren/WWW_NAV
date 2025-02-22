@@ -943,6 +943,10 @@
           
     - term: 快捷启动
       links: 
+        - title: AutoHotPie
+          logo: 
+          url: https://github.com/dumbeau/AutoHotPie
+          description: 配置圆盘菜单
         - title: MousePlus
           logo: 
           url: https://mouseplus.cn/
@@ -1001,14 +1005,10 @@
         - title: StrokesPlus.net
           logo: 
           url: https://www.strokesplus.net/
-          description: 适用于 Windows 的鼠标手势
+          description: 2025年1月Final release
         - title: GestureSign
           logo: 
           url: https://zh.gesturesign.win/
-          description: 
-        - title: 
-          logo: 
-          url: 
           description: 
         - title: MouseGestureL.ahk
           logo: 
@@ -1025,7 +1025,7 @@
         - title: Stroke
           logo: 
           url: https://github.com/poerin/Stroke
-          description: 鼠标手势，无四角手势，自行编写，2021停更
+          description: 鼠标手势，无四角手势，自行编写，配置比较困难
         - title: OneQuick
           logo: 
           url: https://onequick.org/
