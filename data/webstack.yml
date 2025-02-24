@@ -1330,10 +1330,10 @@
       logo: 
       url: https://github.com/dmMaze/BallonsTranslator
       description: 3.2k star, 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑
-    - title: 
+    - title: ANTO
       logo: 
-      url: 
-      description: 
+      url: https://github.com/speauty/anto
+      description: 字幕文件(srt)翻译工具，Windows专用
 
 
 
