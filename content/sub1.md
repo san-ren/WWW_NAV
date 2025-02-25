@@ -107,6 +107,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://memotrace.lc044.love/
       description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+    - title: WeWe RSS
+      logo: 
+      url: https://github.com/cooderl/wewe-rss
+      description: 6.3k star，更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
     - title: Weibo-archiver
       logo: 
       url: https://weibo.chilfish.top/post
