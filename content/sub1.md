@@ -165,6 +165,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://ttime.timerecord.cn/
       description: 2.3k star, AI翻译、文字识别软件，输入、截图、划词、替换、文字识别翻译AI软件
+    - title: Translumo
+      logo: 
+      url: https://github.com/Danily07/Translumohttps://github.com/Danily07/Translumo
+      description: 高级实时游戏屏幕翻译器，视频中的硬编码字幕，静态文本等。
+    - title: 
+      logo: 
+      url: 
+      description: 
 
 
 
