@@ -446,10 +446,10 @@
           logo: 
           url: https://www.52pojie.cn/thread-1876568-1-3.html
           description: 文字转LOGO图片的工具，可以做图标、头像，文字转图片等
-        - title: 
+        - title: upscayl
           logo: 
-          url: 
-          description: 
+          url: https://github.com/upscayl/upscayl
+          description: 图片无损放大
           
     - term: 音、视频编辑
       links: 
@@ -1334,6 +1334,22 @@
       logo: 
       url: https://github.com/speauty/anto
       description: 字幕文件(srt)翻译工具，Windows专用
+    - title: v2vt
+      logo: 
+      url: https://github.com/halfzm/v2vt
+      description: 带有语音克隆和口型同步的视频翻译，支持中英互换
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
+    - title: 
+      logo: 
+      url: 
+      description: 
 
 
 
