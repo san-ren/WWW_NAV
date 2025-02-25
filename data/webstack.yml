@@ -65,6 +65,10 @@
           logo: 
           url: http://fonger.top/
           description: 安卓（魔音）、Windows，在线播放,B站：不知名非羽；微信公众号：方格MUSIC
+        - title: NSMusicS
+          logo: 
+          url: https://github.com/Super-Badmen-Viper/NSMusicS
+          description: 1.7k satr,九歌 云原生音乐服务器/ 全平台客户端，支持 Navidrome、Jellyfin、Emby
         - title: TTKMusicPlayer
           logo: 
           url: https://github.com/Greedysky/TTKMusicPlayer?tab=readme-ov-file
