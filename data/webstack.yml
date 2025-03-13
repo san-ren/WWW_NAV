@@ -1038,18 +1038,18 @@
           logo: 
           url: https://www.autohotkey.com/boards/viewtopic.php?f=6&t=31859
           description: 日本软件
-        - title: Mouse actions
-          logo: 
-          url: https://github.com/jersou/mouse-actions
-          description: 鼠标手势，添加触发角、磨擦边
         - title: Stroke
           logo: 
           url: https://github.com/poerin/Stroke
           description: 鼠标手势，无四角手势，自行编写，配置比较困难
-        - title: 
+        - title: MouseInc
           logo: 
-          url: 
-          description: 
+          url: https://docs.shuax.com/MouseInc/#/
+          description: 2022.10 开发者获刑4年，便携化设计，单执行文件，无运行库依赖
+        - title: Mouse actions
+          logo: 
+          url: https://github.com/jersou/mouse-actions
+          description: Linux鼠标手势，添加触发角、磨擦边
         - title: GestureSign
           logo: 
           url: https://zh.gesturesign.win/
