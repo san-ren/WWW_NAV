@@ -1034,38 +1034,37 @@
           logo: 
           url: https://www.strokesplus.net/
           description: 2025年1月Final release
-        - title: GestureSign
-          logo: 
-          url: https://zh.gesturesign.win/
-          description: 
         - title: MouseGestureL.ahk
           logo: 
-          url: https://hp.vector.co.jp/authors/VA018351/en/mglahk.html
+          url: https://www.autohotkey.com/boards/viewtopic.php?f=6&t=31859
           description: 日本软件
         - title: Mouse actions
           logo: 
           url: https://github.com/jersou/mouse-actions
           description: 鼠标手势，添加触发角、磨擦边
-        - title: 
-          logo: 
-          url: 
-          description: 
         - title: Stroke
           logo: 
           url: https://github.com/poerin/Stroke
           description: 鼠标手势，无四角手势，自行编写，配置比较困难
-        - title: OneQuick
+        - title: 
           logo: 
-          url: https://onequick.org/
-          description: 快捷键工具，2018停更
-        - title: WinXcorners
+          url: 
+          description: 
+        - title: GestureSign
           logo: 
-          url: https://github.com/vhanla/winxcorne1rs/
-          description: 开源，为win10添加触发角，2019停更
+          url: https://zh.gesturesign.win/
+          description: 2022年停更
         - title: Wheel
           logo: 
           url: https://github.com/majorworld/Wheel
           description: 24个屏幕边缘触发器，2020停更
+        - title: WinXcorners
+          logo: 
+          url: https://github.com/vhanla/winxcorne1rs/
+          description: 开源，为win10添加触发角，2019停更
+        - title: OneQuick
+          logo: 
+          url: https://onequick.org/
         - title: strokesplus
           logo: 
           url: https://onequick.org/
