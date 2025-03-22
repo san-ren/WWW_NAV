@@ -1325,10 +1325,14 @@
       logo: 
       url: https://github.com/YILING0013/AI_NovelGenerator
       description: 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
-    - title: 卡卡字幕助手（VideoCaptioner）
+    - title: Image/Manga Translator
       logo: 
-      url: https://github.com/WEIFENG2333/VideoCaptioner
-      description: 4.7k star
+      url: https://github.com/zyddnys/manga-image-translator
+      description: 一键翻译各类图片内文字
+    - title: BallonTranslator
+      logo: 
+      url: https://github.com/dmMaze/BallonsTranslator
+      description: 3.2k star, 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑
     - title: PDFMathTranslate
       logo: 
       url: https://github.com/Byaidu/PDFMathTranslate
@@ -1337,22 +1341,22 @@
       logo: 
       url: https://github.com/multimodal-art-projection/YuE
       description: 4k star, 开启全曲音乐生成基础模型，类似于 Suno.ai 但开源
+    - title: DiffRhythm（谛韵）
+      logo: 
+      url: https://github.com/ASLP-lab/DiffRhythm
+      description: 1.2k star，生成歌曲，西北工业大学与香港中文大学（深圳）联合开发
+    - title: 
+      logo: 
+      url: 
+      description: 
     - title: VideoLingo
       logo: 
       url: https://github.com/Huanshere/VideoLingo
       description: 11.3k star, Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-    - title: screenshot-to-code
+    - title: 卡卡字幕助手（VideoCaptioner）
       logo: 
-      url: https://github.com/abi/screenshot-to-code
-      description: 68.5k star, 将截图放入并转换为干净的代码（HTML/Tailwind/React/Vue）
-    - title: Ai-to-pptx
-      logo: 
-      url: https://github.com/SmartSchoolAI/ai-to-pptx
-      description: 使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 
-    - title: BallonTranslator
-      logo: 
-      url: https://github.com/dmMaze/BallonsTranslator
-      description: 3.2k star, 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑
+      url: https://github.com/WEIFENG2333/VideoCaptioner
+      description: 4.7k star
     - title: ANTO
       logo: 
       url: https://github.com/speauty/anto
@@ -1361,6 +1365,14 @@
       logo: 
       url: https://github.com/halfzm/v2vt
       description: 带有语音克隆和口型同步的视频翻译，支持中英互换
+    - title: screenshot-to-code
+      logo: 
+      url: https://github.com/abi/screenshot-to-code
+      description: 68.5k star, 将截图放入并转换为干净的代码（HTML/Tailwind/React/Vue）
+    - title: Ai-to-pptx
+      logo: 
+      url: https://github.com/SmartSchoolAI/ai-to-pptx
+      description: 使用AI技术(DeepSeek)制作PPTX的助手，支持在线生成和导出PPTX。 
     - title: 
       logo: 
       url: 
