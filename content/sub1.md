@@ -111,6 +111,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://github.com/cooderl/wewe-rss
       description: 6.3k star，更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+    - title: serverless-qrcode-hub
+      logo: 
+      url: https://github.com/xxnuo/serverless-qrcode-hub
+      description: 1.3k star，生成永久微信群聊二维码
+    - title: WechatRealFriends
+      logo: 
+      url: https://github.com/StrayMeteor3337/WechatRealFriends
+      description: 4.4k star，微信好友关系一键检测（2025年3月因微信协议变更停更）
     - title: Weibo-archiver
       logo: 
       url: https://weibo.chilfish.top/post
@@ -123,10 +131,6 @@ data: #以下为导航链接内容
       logo: 
       url: https://order.hereserver.com/
       description: 买家历史订单导出，包含运单号和收货信息与订单备注,淘宝京东拼多多闲鱼订单统计导出
-    - title: 
-      logo: 
-      url: 
-      description: 
     - title: 
       logo: 
       url: 
