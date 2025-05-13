@@ -457,14 +457,22 @@
           
     - term: 音、视频编辑
       links: 
+        - title: LosslessCut
+          logo: 
+          url: https://github.com/mifi/lossless-cut
+          description: 31k star，无损修剪和剪切
         - title: AutoAudioRecorder/内部万能录音器
           logo: 
           url: https://autoclose.net/autoaudiorecorder.html
           description: 将电脑内部所有的声音录制成 mp3/wav ，可根据有无音源自动开启和停止录音
-        - title: 
+        - title: HandBrake
           logo: 
-          url: 
-          description: 
+          url: https://github.com/HandBrake/HandBrake
+          description: 20K star，音视频格式转换、重编码
+        - title: ShanaEncoder
+          logo: 
+          url: https://github.com/1265578519/ShanaEncoder
+          description: 最强的视频压制软件
         - title: Video-subtitle-remover
           logo:
           url: https://github.com/YaoFANGUK/video-subtitle-remover
