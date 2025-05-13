@@ -107,6 +107,10 @@ data: #以下为导航链接内容
       logo: 
       url: https://memotrace.lc044.love/
       description: 27.7k star，提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+    - title: WeClone
+      logo: 
+      url: https://github.com/xming521/WeClone
+      description: 5k star，从聊天记录创造数字分身的一站式解决方案
     - title: WeWe RSS
       logo: 
       url: https://github.com/cooderl/wewe-rss
@@ -131,10 +135,14 @@ data: #以下为导航链接内容
       logo: 
       url: https://order.hereserver.com/
       description: 买家历史订单导出，包含运单号和收货信息与订单备注,淘宝京东拼多多闲鱼订单统计导出
-    - title: 
+    - title: 腾讯版本
       logo: 
-      url: 
-      description: 
+      url: https://github.com/HdShare/TencentVersion
+      description: 基于 VitePress 的 腾讯版本 网站
+    - title: 微信公众号RSS
+      logo: 
+      url: https://github.com/ttttmr/Wechat2RSS
+      description: 微信公众号转RSS
 
 
 
