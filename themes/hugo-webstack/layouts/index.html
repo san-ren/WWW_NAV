@@ -272,7 +272,8 @@
     $(document).ready(function() {
         <!-- 黑暗和明亮模式 START -->
         $('footer.main-footer .foot-button .bright-dark').click(function(){   
-            var currentIcon = $(this).find('i').attr('class'); 
+            var domain = url.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
+            var apiUrl = "https://api.faviconkit.com/" + domain + "/128"; // 使用 FaviconKit API
             if (currentIcon.includes('fa-moon')) {
                 $(this).find('i').removeClass('fa-moon').addClass('fa-sun');
                 $('body').removeClass('white').addClass('black');
@@ -282,7 +283,7 @@
             }        
         });
         <!-- 黑暗和明亮模式 END -->
-        <!-- 利用iowen API 获取网址icon START --> 
+        <!-- 利用FaviconKit API 获取网址icon START --> 
         $(".geticon").each(function(){
             var url = $(this).find('a').attr('href');
             var apiUrl="https://api.iowen.cn/favicon/"+url.replace(/^https?:\/\//, '').replace(/\/.*$/, '')+".png"
@@ -290,7 +291,7 @@
                 $(this).find('img').attr('data-src', apiUrl);
             }
         })
-        <!-- END 利用iowen API 获取网址icon START-->
+        <!-- END 利用FaviconKit API 获取网址icon START-->
         
         $(document).on('click', '.has-sub', function(){
             var _this = $(this)
