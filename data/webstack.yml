@@ -489,6 +489,10 @@
           logo: 
           url: https://www.123pan.com/s/h6nrVv-Dxmrv.html
           description: 付费（替换文件），视频工具、音频工具、图片工具、水印工具、字幕工具
+        - title: FFmpegFreeUI
+          logo:
+          url: https://github.com/Lake1059/FFmpegFreeUI/
+          description: FFmpegFreeUI（简称 3FUI）是在 Windows 上的 FFmpeg 的专业交互外壳，纯填参数，没有内置傻瓜方案
 
     - term: GIF、录屏、屏幕演示
       links: 
